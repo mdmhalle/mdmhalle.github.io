@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mdmhalle.com/assets/colour-poster.tif</loc>
-    <lastmod>2013-02-21</lastmod>
+    <loc>http://mdmhalle.com/images/envelope32.png</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/menu55.png</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021125%20pm.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021356%20pm.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -31,19 +49,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021125%20pm.jpg</loc>
-    <lastmod>2015-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021356%20pm.jpg</loc>
-    <lastmod>2015-11-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/bg-u318.jpg</loc>
+    <loc>http://mdmhalle.com/images/untitled%20drawing.jpg</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -121,13 +127,67 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/images/on%20set%20with%20matthieu%20halle%CC%81%20%E2%80%94%20brian%20van%20wyk%20photography-u371.jpg</loc>
+    <loc>http://mdmhalle.com/images/bg-u318.jpg</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/images/untitled%20drawing.jpg</loc>
+    <loc>http://mdmhalle.com/images/matthieu-9924-1714524965-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9879-1714524559-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9918-1714524746-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-0035-1714519751-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-0179-1714518320-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-0187-1714518999-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9209.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9938-1714526917-o.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9371.jpg</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/matthieu-9254.jpg</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
