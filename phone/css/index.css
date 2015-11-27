@@ -32,12 +32,16 @@
 {
 	z-index: 1;
 	width: 380px;
-	min-height: 569.5500000000011px;
+	min-height: 9935px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
+}
+
+#page_position_content
+{
+	margin-bottom: 373px;
 }
 
 #pu1449
@@ -88,12 +92,19 @@
 	position: relative;
 }
 
+#accordionu1149wrapper
+{
+	min-height: 223px;
+	z-index: 57;
+	margin-left: 11px;
+	margin-top: 63px;
+	position: relative;
+}
+
 #accordionu1149
 {
 	z-index: 57;
 	width: 260px;
-	margin-left: 11px;
-	margin-top: 63px;
 	position: relative;
 }
 
@@ -439,6 +450,7 @@
 	text-align: center;
 	font-size: 10px;
 	line-height: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	margin-left: 74px;
 	margin-top: 6px;
@@ -467,6 +479,7 @@
 	text-align: center;
 	font-size: 10px;
 	line-height: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	margin-left: 22px;
 	margin-top: 5px;
@@ -1474,6 +1487,69 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 30px;
 	margin-top: 5px;
+	position: relative;
+}
+
+#u1538
+{
+	z-index: 345;
+	width: 234px;
+	height: 2px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: 72px;
+	margin-top: 42px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#about
+{
+	margin-left: 21px;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u1537-4
+{
+	z-index: 341;
+	width: 48px;
+	min-height: 18px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 164px;
+	margin-top: 9px;
+	position: relative;
+}
+
+#u1536-4
+{
+	z-index: 337;
+	width: 333px;
+	min-height: 56px;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-left: 21px;
+	margin-top: 32px;
+	position: relative;
+}
+
+#u1546-4
+{
+	z-index: 347;
+	width: 35px;
+	min-height: 13px;
+	text-align: center;
+	line-height: 14px;
+	font-size: 12px;
+	color: #7F7F7F;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-left: 323px;
+	margin-top: 38px;
 	position: relative;
 }
 

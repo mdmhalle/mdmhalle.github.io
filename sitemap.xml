@@ -200,61 +200,67 @@
     <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://mdmhalle.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://mdmhalle.com/synesthesia.html</loc>
+    <loc>http://mdmhalle.com/synesthesia--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/untitled-(broken-glass-and-fire.html</loc>
+    <loc>http://mdmhalle.com/untitled--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/margraue.html</loc>
+    <loc>http://mdmhalle.com/margraue--about.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/imitation--moving-gaze.html</loc>
+    <loc>http://mdmhalle.com/imitation--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/apartment.html</loc>
+    <loc>http://mdmhalle.com/apartment-no.1-3--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/and-time.html</loc>
+    <loc>http://mdmhalle.com/and-time--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/from-sound-to-sun.html</loc>
+    <loc>http://mdmhalle.com/from-sound-to-sun--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/the-story.html</loc>
+    <loc>http://mdmhalle.com/margraue--story.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/the-film.html</loc>
+    <loc>http://mdmhalle.com/margraue--watch.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/photos-by-brian.html</loc>
+    <loc>http://mdmhalle.com/margraue--photos.html</loc>
+    <lastmod>2015-11-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/about--mdmhalle.html</loc>
     <lastmod>2015-11-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
