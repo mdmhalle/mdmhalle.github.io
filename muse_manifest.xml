@@ -1,0 +1,85 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4023935739"/>
+    <file name="master_a-master.css" crc="73720749" ref="synesthesia:and-time:index:apartment:imitation--moving-gaze:from-sound-to-sun:untitled-(broken-glass-and-fire"/>
+    <file name="master_margraue-master.css" crc="484125850" ref="photos-by-brian:margraue:the-story:the-film"/>
+    <file name="synesthesia.css" crc="239788710" ref="synesthesia"/>
+    <file name="photos-by-brian.css" crc="3775883173" ref="photos-by-brian"/>
+    <file name="margraue.css" crc="226924421" ref="margraue"/>
+    <file name="and-time.css" crc="316225377" ref="and-time"/>
+    <file name="index.css" crc="3901962571" ref="index"/>
+    <file name="apartment.css" crc="3840840795" ref="apartment"/>
+    <file name="the-story.css" crc="316055952" ref="the-story"/>
+    <file name="imitation--moving-gaze.css" crc="438728407" ref="imitation--moving-gaze"/>
+    <file name="from-sound-to-sun.css" crc="508985927" ref="from-sound-to-sun"/>
+    <file name="untitled-_broken-glass-and-fire.css" crc="6478199" ref="untitled-(broken-glass-and-fire"/>
+    <file name="the-film.css" crc="184294090" ref="the-film"/>
+  </folder>
+  <folder name="assets">
+    <file name="colour-poster.tif" crc="3905562279" mt="1361427911000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3828297711" ref="phone>index:phone>synesthesia:phone>untitled-(broken-glass-and-fire:phone>margraue:phone>the-story:phone>the-film:phone>photos-by-brian:phone>imitation--moving-gaze:phone>apartment:phone>and-time:phone>from-sound-to-sun:index:synesthesia:untitled-(broken-glass-and-fire:margraue:imitation--moving-gaze:apartment:and-time:from-sound-to-sun:the-story:the-film:photos-by-brian"/>
+    <file name="museutils.js" crc="3880880085" ref="phone>index:phone>synesthesia:phone>untitled-(broken-glass-and-fire:phone>margraue:phone>the-story:phone>the-film:phone>photos-by-brian:phone>imitation--moving-gaze:phone>apartment:phone>and-time:phone>from-sound-to-sun:index:synesthesia:untitled-(broken-glass-and-fire:margraue:imitation--moving-gaze:apartment:and-time:from-sound-to-sun:the-story:the-film:photos-by-brian"/>
+    <file name="jquery.watch.js" crc="4199601726" ref="phone>index:phone>synesthesia:phone>untitled-(broken-glass-and-fire:phone>margraue:phone>the-story:phone>the-film:phone>photos-by-brian:phone>imitation--moving-gaze:phone>apartment:phone>and-time:phone>from-sound-to-sun:index:synesthesia:untitled-(broken-glass-and-fire:margraue:imitation--moving-gaze:apartment:and-time:from-sound-to-sun:the-story:the-film:photos-by-brian"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2015-11-25 at 11025 pm 1.jpg" crc="4078632384" ref="synesthesia"/>
+    <file name="screen shot 2015-11-25 at 14831 pm.jpg" crc="4060979221" ref="synesthesia"/>
+    <file name="screen shot 2015-11-25 at 14920 pm.jpg" crc="3921096649" ref="synesthesia"/>
+    <file name="screen shot 2015-11-25 at 15026 pm.jpg" crc="4068111339" ref="synesthesia"/>
+    <file name="screen shot 2015-11-25 at 21125 pm.jpg" crc="4183206704" ref="untitled-(broken-glass-and-fire"/>
+    <file name="screen shot 2015-11-25 at 21356 pm.jpg" crc="4059849666" ref="untitled-(broken-glass-and-fire"/>
+    <file name="bg-u318.jpg" crc="3816477300" ref="margraue:the-story:the-film:photos-by-brian"/>
+    <file name="imitation still 1.jpg" crc="3952397196" ref="imitation--moving-gaze"/>
+    <file name="imitation still 3.jpg" crc="407413758" ref="imitation--moving-gaze"/>
+    <file name="move_gaze_video_still.jpg" crc="3964119239" ref="imitation--moving-gaze"/>
+    <file name="screen shot 2015-11-26 at 11752 pm.jpg" crc="329169135" ref="apartment"/>
+    <file name="screen shot 2015-11-26 at 11533 pm.jpg" crc="233255328" ref="apartment"/>
+    <file name="screen shot 2015-11-26 at 11418 pm.jpg" crc="459622769" ref="apartment"/>
+    <file name="screen shot 2015-11-26 at 13821 pm.jpg" crc="3831543125" ref="and-time"/>
+    <file name="screen shot 2015-11-26 at 13850 pm.jpg" crc="4037691446" ref="and-time"/>
+    <file name="screen shot 2015-11-26 at 14017 pm.jpg" crc="3812336997" ref="and-time"/>
+    <file name="screen shot 2015-11-26 at 14049 pm.jpg" crc="3927544749" ref="and-time"/>
+    <file name="screen shot 2015-11-26 at 14119 pm.jpg" crc="444033592" ref="and-time"/>
+    <file name="screen shot 2015-11-26 at 14205 pm.jpg" crc="3762929853" ref="and-time"/>
+    <file name="on set with matthieu hallé — brian van wyk photography-u371.jpg" crc="387758750" ref="photos-by-brian"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="and-time.css" crc="4264408292" ref="phone>and-time"/>
+      <file name="imitation--moving-gaze.css" crc="4264408292" ref="phone>imitation--moving-gaze"/>
+      <file name="the-story.css" crc="4264408292" ref="phone>the-story"/>
+      <file name="index.css" crc="4264408292" ref="phone>index"/>
+      <file name="synesthesia.css" crc="4264408292" ref="phone>synesthesia"/>
+      <file name="untitled-_broken-glass-and-fire.css" crc="4264408292" ref="phone>untitled-(broken-glass-and-fire"/>
+      <file name="photos-by-brian.css" crc="4264408292" ref="phone>photos-by-brian"/>
+      <file name="from-sound-to-sun.css" crc="4264408292" ref="phone>from-sound-to-sun"/>
+      <file name="apartment.css" crc="4264408292" ref="phone>apartment"/>
+      <file name="margraue.css" crc="4264408292" ref="phone>margraue"/>
+      <file name="the-film.css" crc="4264408292" ref="phone>the-film"/>
+    </folder>
+    <file name="index.html" crc="3991582778" mt="1448565649774" redirect="false"/>
+    <file name="synesthesia.html" crc="3911958608" mt="1448565649857" redirect="false"/>
+    <file name="untitled-(broken-glass-and-fire.html" crc="3937884762" mt="1448565649994" redirect="false"/>
+    <file name="margraue.html" crc="236706751" mt="1448565650084" redirect="false"/>
+    <file name="the-story.html" crc="4065499297" mt="1448565650181" redirect="false"/>
+    <file name="the-film.html" crc="4017197081" mt="1448565650283" redirect="false"/>
+    <file name="photos-by-brian.html" crc="192403588" mt="1448565650373" redirect="false"/>
+    <file name="imitation--moving-gaze.html" crc="4219768050" mt="1448565650463" redirect="false"/>
+    <file name="apartment.html" crc="45922607" mt="1448565650565" redirect="false"/>
+    <file name="and-time.html" crc="3779244814" mt="1448565650646" redirect="false"/>
+    <file name="from-sound-to-sun.html" crc="203106972" mt="1448565650727" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="133810746" mt="1448578140412" redirect="true"/>
+  <file name="synesthesia.html" crc="4123720584" mt="1448578140414" redirect="true"/>
+  <file name="untitled-(broken-glass-and-fire.html" crc="3807218268" mt="1448578837152" redirect="true"/>
+  <file name="margraue.html" crc="3805925983" mt="1448578964721" redirect="true"/>
+  <file name="imitation--moving-gaze.html" crc="4035837819" mt="1448578553027" redirect="true"/>
+  <file name="apartment.html" crc="3999757594" mt="1448578580076" redirect="true"/>
+  <file name="and-time.html" crc="400414203" mt="1448578687073" redirect="true"/>
+  <file name="from-sound-to-sun.html" crc="4175226161" mt="1448578140426" redirect="true"/>
+  <file name="the-story.html" crc="4067867538" mt="1448579041120" redirect="true"/>
+  <file name="the-film.html" crc="342426273" mt="1448578135695" redirect="true"/>
+  <file name="photos-by-brian.html" crc="136340263" mt="1448578886903" redirect="true"/>
+</manifest>
