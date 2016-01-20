@@ -7,11 +7,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 855px;
+	min-height: 1113px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 100px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -244,6 +245,7 @@
 #pu252-8
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 61px;
@@ -321,6 +323,27 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-style: italic;
 	margin-top: 5px;
+	position: relative;
+}
+
+#u1561
+{
+	z-index: 75;
+	width: 490px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1557-4
+{
+	z-index: 71;
+	width: 490px;
+	min-height: 4px;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-top: 6px;
 	position: relative;
 }
 

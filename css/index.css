@@ -17,12 +17,19 @@
 	margin-right: auto;
 }
 
+#pu803
+{
+	width: 0.01px;
+	position: relative;
+	margin-right: -10000px;
+	left: -100px;
+}
+
 #u803
 {
 	z-index: 2;
 	width: 196px;
 	margin-right: -10000px;
-	left: -100px;
 	padding: 29px 39px 368px 23px;
 }
 
@@ -216,7 +223,7 @@
 	min-height: 21px;
 	margin-right: -10000px;
 	margin-top: 163px;
-	left: -77px;
+	left: 23px;
 }
 
 #u807-4:hover
@@ -233,6 +240,26 @@
 	padding-bottom: 0px;
 	min-height: 21px;
 	margin: 163px -10000px 0px 0px;
+}
+
+#u1558-6
+{
+	z-index: 51;
+	width: 648px;
+	min-height: 56px;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 69px;
+	left: 196px;
+}
+
+#u1558-2
+{
+	font-style: italic;
 }
 
 body
