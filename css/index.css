@@ -7,12 +7,11 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 907px;
+	min-height: 1183px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 276px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -29,7 +28,7 @@
 	z-index: 2;
 	width: 221px;
 	margin-right: -10000px;
-	padding: 29px 14px 368px 23px;
+	padding: 29px 14px 656px 23px;
 }
 
 #u804-4
@@ -234,7 +233,7 @@
 #u815-4
 {
 	z-index: 47;
-	width: 46px;
+	width: 56px;
 	min-height: 18px;
 	margin-top: 53px;
 }
@@ -242,7 +241,7 @@
 #u1586-4
 {
 	z-index: 51;
-	width: 113px;
+	width: 119px;
 	min-height: 21px;
 	margin-right: -10000px;
 	margin-top: 57px;
