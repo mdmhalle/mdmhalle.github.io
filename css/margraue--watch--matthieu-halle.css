@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 965px;
+	min-height: 675px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -16,19 +16,12 @@
 	margin-right: auto;
 }
 
-#ppu287
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	position: relative;
-	margin-right: -10000px;
-	left: -100px;
-}
-
 #pu287
 {
 	width: 0.01px;
 	position: relative;
+	margin-right: -10000px;
+	left: -100px;
 }
 
 #u287
@@ -248,38 +241,20 @@
 	margin: 163px -10000px 0px 0px;
 }
 
-#u905
-{
-	z-index: 87;
-	width: 258px;
-	height: 113px;
-	border-color: #000000;
-	background-color: #F6F6F6;
-	top: -4px;
-	margin-bottom: -4px;
-	position: relative;
-}
-
-#pu318
+#ppu315-4
 {
 	width: 0.01px;
 	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	left: 158px;
-}
-
-#u318
-{
-	z-index: 63;
-	width: 1078px;
+	margin-top: 260px;
+	left: 355px;
 }
 
 #pu315-4
 {
 	width: 0.01px;
-	margin-left: 243px;
-	margin-top: 13px;
+	margin-left: 46px;
 	position: relative;
 }
 
@@ -361,7 +336,7 @@
 
 #u358-4
 {
-	z-index: 65;
+	z-index: 63;
 	width: 102px;
 	margin-right: -10000px;
 	left: 290px;
@@ -383,59 +358,15 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u350
+#u356
 {
-	z-index: 86;
+	z-index: 67;
 	width: 500px;
 	min-height: 320px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 195px;
-	margin-top: 47px;
-	position: relative;
-}
-
-#u348-5
-{
-	z-index: 77;
-	width: 422px;
-	min-height: 15px;
-	margin-left: 227px;
-	margin-top: 11px;
-	position: relative;
-}
-
-#u348-2
-{
-	font-size: 12px;
-	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
-#u349-4
-{
-	z-index: 82;
-	width: 57px;
-	min-height: 18px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-weight: bold;
-	margin-left: 417px;
-	margin-top: 82px;
-	position: relative;
-}
-
-#u347-8
-{
-	z-index: 69;
-	width: 540px;
-	min-height: 73px;
-	text-align: center;
-	font-size: 12px;
-	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 175px;
-	margin-top: 9px;
+	margin-top: 50px;
 	position: relative;
 }
 

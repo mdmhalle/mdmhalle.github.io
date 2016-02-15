@@ -7,7 +7,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 675px;
+	min-height: 1125px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -241,25 +241,31 @@
 	margin: 163px -10000px 0px 0px;
 }
 
-#pu318
+#u905
+{
+	z-index: 85;
+	width: 258px;
+	height: 294px;
+	border-color: #000000;
+	background-color: #F6F6F6;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 841px;
+}
+
+#ppu315-4
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	left: 158px;
-}
-
-#u318
-{
-	z-index: 63;
-	width: 1078px;
+	margin-top: 260px;
+	left: 319px;
 }
 
 #pu315-4
 {
 	width: 0.01px;
-	margin-left: 243px;
-	margin-top: 13px;
+	margin-left: 82px;
 	position: relative;
 }
 
@@ -341,7 +347,7 @@
 
 #u358-4
 {
-	z-index: 65;
+	z-index: 63;
 	width: 102px;
 	margin-right: -10000px;
 	left: 290px;
@@ -363,16 +369,89 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u356
+#u350
 {
-	z-index: 69;
+	z-index: 84;
 	width: 500px;
 	min-height: 320px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 197px;
-	margin-top: 50px;
+	margin-left: 34px;
+	margin-top: 47px;
+	position: relative;
+}
+
+#u348-5
+{
+	z-index: 75;
+	width: 422px;
+	min-height: 15px;
+	margin-left: 66px;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u348-2
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1581-4
+{
+	z-index: 99;
+	width: 80px;
+	min-height: 18px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 244px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u1580-13
+{
+	z-index: 86;
+	width: 568px;
+	min-height: 73px;
+	text-align: left;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 10px;
+	position: relative;
+}
+
+#u349-4
+{
+	z-index: 80;
+	width: 57px;
+	min-height: 18px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	margin-left: 256px;
+	margin-top: 62px;
+	position: relative;
+}
+
+#u1581,#u349
+{
+	text-decoration: underline;
+}
+
+#u347-8
+{
+	z-index: 67;
+	width: 540px;
+	min-height: 73px;
+	text-align: center;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 14px;
+	margin-top: 9px;
 	position: relative;
 }
 

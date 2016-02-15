@@ -7,22 +7,101 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 907px;
+	min-height: 1517px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 276px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#pu803
+#page_position_content
+{
+	margin-bottom: 43px;
+}
+
+#ppu252-7
+{
+	width: 0.01px;
+	left: -100px;
+	position: relative;
+}
+
+#pu252-7
 {
 	width: 0.01px;
 	position: relative;
 	margin-right: -10000px;
-	left: -100px;
+	margin-top: 61px;
+	left: 452px;
+}
+
+#u252-7
+{
+	z-index: 56;
+	width: 500px;
+	min-height: 68px;
+	position: relative;
+}
+
+#u252-5
+{
+	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+}
+
+#u252-2,#u252-3,#u252-4
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u1569
+{
+	z-index: 81;
+	width: 490px;
+	min-height: 321px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 22px;
+	position: relative;
+}
+
+#u254
+{
+	z-index: 63;
+	width: 490px;
+	margin-left: 1px;
+	margin-top: 35px;
+	position: relative;
+}
+
+#u254_img
+{
+	padding-right: 1px;
+}
+
+#u264-4
+{
+	z-index: 67;
+	width: 490px;
+	min-height: 4px;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u259
+{
+	z-index: 65;
+	width: 490px;
+	margin-top: 25px;
+	position: relative;
 }
 
 #u803
@@ -260,29 +339,41 @@
 	left: 62px;
 }
 
-#u1558-6
+#u265-4
 {
-	z-index: 56;
-	width: 648px;
-	min-height: 56px;
+	z-index: 71;
+	width: 490px;
+	min-height: 4px;
 	font-size: 12px;
 	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-style: normal;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 69px;
-	left: 196px;
-}
-
-#u1558-2
-{
 	font-style: italic;
+	margin-left: 352px;
+	margin-top: 4px;
+	position: relative;
 }
 
-body
+#u1561
 {
-	padding-bottom: 74px;
+	z-index: 79;
+	width: 490px;
+	margin-left: 352px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u1557-4
+{
+	z-index: 75;
+	width: 490px;
+	min-height: 4px;
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	margin-left: 352px;
+	margin-top: 7px;
+	position: relative;
 }
 
 #page .verticalspacer

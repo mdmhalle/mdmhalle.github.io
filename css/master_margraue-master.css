@@ -7,8 +7,8 @@
 
 #u288-4
 {
-	line-height: 22px;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -108,11 +108,6 @@
 {
 	color: #A9A9A9;
 	visibility: inherit;
-}
-
-#u318
-{
-	position: relative;
 }
 
 #u315-4
