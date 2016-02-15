@@ -19,10 +19,8 @@
 #ppu287
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	position: relative;
 	margin-right: -10000px;
-	left: -100px;
 }
 
 #pu287
@@ -255,8 +253,8 @@
 	height: 3778px;
 	border-color: #000000;
 	background-color: #F6F6F6;
-	top: -1px;
-	margin-bottom: -1px;
+	top: -8px;
+	margin-bottom: -8px;
 	position: relative;
 }
 
