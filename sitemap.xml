@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://mdmhalle.com/images/envelope32.png</loc>
-    <lastmod>2016-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021125%20pm.jpg</loc>
-    <lastmod>2016-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021356%20pm.jpg</loc>
-    <lastmod>2016-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2011025%20pm%201.jpg</loc>
     <lastmod>2016-02-15</lastmod>
     <changefreq>weekly</changefreq>
@@ -43,7 +25,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://mdmhalle.com/images/untitled%20drawing.jpg</loc>
+    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021125%20pm.jpg</loc>
+    <lastmod>2016-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/screen%20shot%202015-11-25%20at%2021356%20pm.jpg</loc>
+    <lastmod>2016-02-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://mdmhalle.com/images/screen%20shot%202016-01-19%20at%20115954%20am.jpg</loc>
     <lastmod>2016-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -56,12 +50,6 @@
   </url>
   <url>
     <loc>http://mdmhalle.com/images/imitation%20still%203.jpg</loc>
-    <lastmod>2016-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/move_gaze_video_still.jpg</loc>
     <lastmod>2016-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -116,12 +104,6 @@
   </url>
   <url>
     <loc>http://mdmhalle.com/images/screen%20shot%202015-11-26%20at%2014205%20pm.jpg</loc>
-    <lastmod>2016-02-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://mdmhalle.com/images/screen%20shot%202016-01-19%20at%20115954%20am.jpg</loc>
     <lastmod>2016-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -191,7 +173,6 @@
     <lastmod>2016-02-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://mdmhalle.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://mdmhalle.com/synesthesia--matthieu-halle.html</loc>
