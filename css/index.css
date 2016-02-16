@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #C2AD15;
+	color: #00001D;
+	background-color: #369BF8;
 }
 
 .html
@@ -311,48 +311,13 @@
 	font-style: italic;
 }
 
-#slideshowu1743
+#u1796
 {
 	z-index: 66;
-	width: 0.01px;
-	height: 431px;
-	margin-top: 55px;
-	position: relative;
-}
-
-#u1744
-{
-	position: absolute;
 	width: 564px;
-	height: 431px;
 	background-color: transparent;
-}
-
-#u1744popup
-{
-	z-index: 67;
-}
-
-#u1747
-{
-	z-index: 68;
-	width: 564px;
-	height: 431px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	margin-right: -10000px;
+	margin-top: 86px;
 	position: relative;
-}
-
-.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
-{
-	cursor: pointer;
-}
-
-.SSSlideLoading /* slideshowFreeStyle */
-{
-	background: url("../images/loading.gif") no-repeat center center;
 }
 
 body
