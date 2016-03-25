@@ -112,10 +112,18 @@
 	visibility: inherit;
 }
 
-#u1623-4,#u815-4,#u1586-4
+#u1623-4,#u815-4
 {
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+}
+
+#u1586-4
+{
+	background-color: transparent;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
 	position: relative;
 }
 
