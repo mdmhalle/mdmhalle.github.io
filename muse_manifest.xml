@@ -1,20 +1,20 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mdmhalle.com" resolutions="1x" timestamp="1458918929181">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mdmhalle.com" resolutions="1x" timestamp="1462579359163">
   <folder name="css">
-    <file name="site_global.css" crc="4250165691"/>
-    <file name="master_a-master.css" crc="4271629344" ref="synesthesia--matthieu-halle:index:apartment-no.1-3--matthieu-halle:untitled--matthieu-halle:and-time--matthieu-halle:imitation--matthieu-halle:from-sound-to-sun--matthieu-halle:cv--matthieu-halle"/>
-    <file name="master_a-master-copy.css" crc="464814825" ref="margraue--watch--matthieu-halle:margraue--story--matthieu-halle:margraue--about--matthieu-halle:margraue--photos--matthieu-halle"/>
-    <file name="synesthesia--matthieu-halle.css" crc="65385583" ref="synesthesia--matthieu-halle"/>
+    <file name="site_global.css" crc="66854385"/>
+    <file name="master_a-master.css" crc="4271629344" ref="cv--matthieu-halle:index:from-sound-to-sun--matthieu-halle:synesthesia--matthieu-halle:and-time--matthieu-halle:apartment-no.1-3--matthieu-halle:untitled--matthieu-halle:imitation--matthieu-halle"/>
+    <file name="master_a-master-copy.css" crc="464814825" ref="margraue--photos--matthieu-halle:margraue--about--matthieu-halle:margraue--story--matthieu-halle:margraue--watch--matthieu-halle"/>
+    <file name="cv--matthieu-halle.css" crc="4184117220" ref="cv--matthieu-halle"/>
     <file name="index.css" crc="490118136" ref="index"/>
+    <file name="from-sound-to-sun--matthieu-halle.css" crc="369452400" ref="from-sound-to-sun--matthieu-halle"/>
+    <file name="margraue--photos--matthieu-halle.css" crc="4079500141" ref="margraue--photos--matthieu-halle"/>
+    <file name="synesthesia--matthieu-halle.css" crc="65385583" ref="synesthesia--matthieu-halle"/>
+    <file name="and-time--matthieu-halle.css" crc="319710507" ref="and-time--matthieu-halle"/>
+    <file name="margraue--about--matthieu-halle.css" crc="4015197207" ref="margraue--about--matthieu-halle"/>
+    <file name="margraue--story--matthieu-halle.css" crc="183627148" ref="margraue--story--matthieu-halle"/>
     <file name="apartment-no_1-3--matthieu-halle.css" crc="9771376" ref="apartment-no.1-3--matthieu-halle"/>
     <file name="untitled--matthieu-halle.css" crc="338900049" ref="untitled--matthieu-halle"/>
     <file name="margraue--watch--matthieu-halle.css" crc="3904950018" ref="margraue--watch--matthieu-halle"/>
-    <file name="and-time--matthieu-halle.css" crc="319710507" ref="and-time--matthieu-halle"/>
-    <file name="margraue--story--matthieu-halle.css" crc="183627148" ref="margraue--story--matthieu-halle"/>
-    <file name="margraue--about--matthieu-halle.css" crc="4015197207" ref="margraue--about--matthieu-halle"/>
     <file name="imitation--matthieu-halle.css" crc="3929717914" ref="imitation--matthieu-halle"/>
-    <file name="from-sound-to-sun--matthieu-halle.css" crc="369452400" ref="from-sound-to-sun--matthieu-halle"/>
-    <file name="margraue--photos--matthieu-halle.css" crc="4079500141" ref="margraue--photos--matthieu-halle"/>
-    <file name="cv--matthieu-halle.css" crc="4170852390" ref="cv--matthieu-halle"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:synesthesia--matthieu-halle:untitled--matthieu-halle:margraue--about--matthieu-halle:imitation--matthieu-halle:apartment-no.1-3--matthieu-halle:and-time--matthieu-halle:from-sound-to-sun--matthieu-halle:margraue--story--matthieu-halle:margraue--watch--matthieu-halle:margraue--photos--matthieu-halle:cv--matthieu-halle"/>
@@ -52,7 +52,7 @@
     <file name="matthieu-9371.jpg" crc="254416395" seo="true" ref="margraue--photos--matthieu-halle"/>
     <file name="matthieu-9254.jpg" crc="461323803" seo="true" ref="margraue--photos--matthieu-halle"/>
   </folder>
-  <file name="index.html" crc="3866512975" seo="true" mt="1458918883302" redirect="true"/>
+  <file name="index.html" crc="4003669467" seo="true" mt="1462579125292" redirect="true"/>
   <file name="synesthesia--matthieu-halle.html" crc="289876396" seo="true" mt="1458918883302" redirect="true"/>
   <file name="untitled--matthieu-halle.html" crc="4119513926" seo="true" mt="1458918883302" redirect="true"/>
   <file name="margraue--about--matthieu-halle.html" crc="320482024" seo="true" mt="1458918600205" redirect="true"/>
@@ -63,5 +63,5 @@
   <file name="margraue--story--matthieu-halle.html" crc="408753746" seo="true" mt="1458918600205" redirect="true"/>
   <file name="margraue--watch--matthieu-halle.html" crc="190919630" seo="true" mt="1458918600205" redirect="true"/>
   <file name="margraue--photos--matthieu-halle.html" crc="971936" seo="true" mt="1458918600205" redirect="true"/>
-  <file name="cv--matthieu-halle.html" crc="260296547" seo="true" mt="1458918922516" redirect="true"/>
+  <file name="cv--matthieu-halle.html" crc="198341719" seo="true" mt="1462579321609" redirect="true"/>
 </manifest>
