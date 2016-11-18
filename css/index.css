@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000001;
-	background-color: #BCC746;
+	color: #000012;
+	background-color: #91A5D3;
 }
 
 .html
@@ -20,12 +20,6 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#pu803
-{
-	width: 0.01px;
-	margin-right: -10000px;
 }
 
 #u803
@@ -255,42 +249,6 @@
 	margin-right: -10000px;
 	margin-top: 65px;
 	left: 62px;
-}
-
-#pu1558-6
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 64px;
-	margin-left: 337px;
-}
-
-#u1558-6
-{
-	z-index: 62;
-	width: 564px;
-	min-height: 68px;
-	background-color: transparent;
-	font-size: 12px;
-	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-style: normal;
-	position: relative;
-}
-
-#u1558-2
-{
-	font-style: italic;
-}
-
-#u1796
-{
-	z-index: 68;
-	width: 564px;
-	background-color: transparent;
-	margin-top: 86px;
-	position: relative;
 }
 
 body

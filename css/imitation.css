@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #0000FD;
-	background-color: #4AD2D6;
+	color: #0000EF;
+	background-color: #A9F30C;
 }
 
 .html
@@ -283,9 +283,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 124px;
 	position: relative;
@@ -369,8 +369,8 @@
 	width: 496px;
 	min-height: 17px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 3px;
 	margin-top: 12px;
@@ -383,9 +383,9 @@
 	width: 454px;
 	min-height: 33px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 30px;
 	margin-top: 31px;
@@ -398,8 +398,8 @@
 	width: 147px;
 	min-height: 19px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 170px;
 	margin-top: 44px;
@@ -439,9 +439,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 110px;
 	margin-top: 103px;
@@ -475,8 +475,8 @@
 	width: 423px;
 	min-height: 17px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -502,9 +502,9 @@
 	width: 485px;
 	min-height: 45px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 28px;
 	position: relative;
@@ -516,9 +516,9 @@
 	width: 102px;
 	min-height: 9px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 185px;
 	margin-top: 28px;

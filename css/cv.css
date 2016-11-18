@@ -1,7 +1,7 @@
 .version.cv /* version checker */
 {
-	color: #000004;
-	background-color: #1CBDCF;
+	color: #00001E;
+	background-color: #E8844A;
 }
 
 .html
@@ -267,13 +267,13 @@
 
 #u1892-4
 {
-	z-index: 215;
+	z-index: 205;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 149px;
 	position: relative;
@@ -281,7 +281,7 @@
 
 #u1893
 {
-	z-index: 219;
+	z-index: 209;
 	width: 419px;
 	height: 6px;
 	border-style: solid;
@@ -293,45 +293,34 @@
 	border-width: 1px 0px 0px;
 }
 
-#u1808-153
+#u1808-143
 {
 	z-index: 62;
 	width: 551px;
 	min-height: 484px;
 	background-color: transparent;
+	line-height: 13px;
+	font-size: 11px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 12px;
 	position: relative;
 }
 
-#u1808-67,#u1808-69
+#u1808-11,#u1808-13,#u1808-15,#u1808-17,#u1808-22,#u1808-24,#u1808-26,#u1808-28,#u1808-30,#u1808-32,#u1808-34
 {
 	font-size: 11px;
-	font-weight: bold;
+	line-height: 13px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u1808-70
+#u1808-3,#u1808-51,#u1808-71,#u1808-79,#u1808-89,#u1808-97,#u1808-109
 {
-	font-size: 11px;
-}
-
-#u1808-12,#u1808-78,#u1808-80,#u1808-84,#u1808-88,#u1808-90,#u1808-94,#u1808-96,#u1808-103,#u1808-120
-{
-	font-weight: bold;
-}
-
-#u1808-2,#u1808-64,#u1808-109,#u1808-117,#u1808-128,#u1808-135,#u1808-142
-{
-	font-size: 11px;
 	text-align: center;
-	line-height: 13px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u1808-3,#u1808-5,#u1808-7,#u1808-9,#u1808-10,#u1808-14,#u1808-16,#u1808-18,#u1808-20,#u1808-22,#u1808-23,#u1808-25,#u1808-27,#u1808-28,#u1808-30,#u1808-32,#u1808-34,#u1808-35,#u1808-37,#u1808-39,#u1808-40,#u1808-42,#u1808-44,#u1808-46,#u1808-48,#u1808-50,#u1808-51,#u1808-53,#u1808-55,#u1808-56,#u1808-58,#u1808-60,#u1808-61,#u1808-62,#u1808-65,#u1808-71,#u1808-73,#u1808-74,#u1808-76,#u1808-82,#u1808-86,#u1808-92,#u1808-98,#u1808-99,#u1808-101,#u1808-105,#u1808-106,#u1808-107,#u1808-110,#u1808-112,#u1808-114,#u1808-115,#u1808-118,#u1808-122,#u1808-124,#u1808-125,#u1808-126,#u1808-129,#u1808-131,#u1808-132,#u1808-133,#u1808-136,#u1808-138,#u1808-139,#u1808-140,#u1808-143,#u1808-146,#u1808-147,#u1808-150
+#u1808-47 > li:before,#u1808-47 .list1 > li:before,#u1808-55 > li:before,#u1808-59 > li:before,#u1808-63 > li:before,#u1808-67 > li:before,#u1808-75 > li:before,#u1808-85 > li:before,#u1808-93 > li:before,#u1808-101 > li:before,#u1808-105 > li:before,#u1808-141 > li:before
 {
-	font-size: 11px;
-	line-height: 13px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	content: '-';
 }
 
 body

@@ -1,7 +1,7 @@
 .version.visual_shows /* version checker */
 {
-	color: #0000F3;
-	background-color: #D86A77;
+	color: #0000F9;
+	background-color: #DC31BD;
 }
 
 .html
@@ -283,9 +283,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 123px;
 	position: relative;

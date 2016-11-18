@@ -1,7 +1,7 @@
 .version.margraue /* version checker */
 {
-	color: #000001;
-	background-color: #05201A;
+	color: #000002;
+	background-color: #751FDE;
 }
 
 .html
@@ -292,9 +292,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 144px;
 	position: relative;
@@ -351,9 +351,9 @@
 	width: 540px;
 	min-height: 73px;
 	background-color: transparent;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 49px;
 	position: relative;
