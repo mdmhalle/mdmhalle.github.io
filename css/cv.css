@@ -1,7 +1,7 @@
 .version.cv /* version checker */
 {
-	color: #00001E;
-	background-color: #E8844A;
+	color: #00001B;
+	background-color: #91325F;
 }
 
 .html
@@ -267,7 +267,7 @@
 
 #u1892-4
 {
-	z-index: 205;
+	z-index: 207;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
@@ -281,7 +281,7 @@
 
 #u1893
 {
-	z-index: 209;
+	z-index: 211;
 	width: 419px;
 	height: 6px;
 	border-style: solid;
@@ -293,7 +293,7 @@
 	border-width: 1px 0px 0px;
 }
 
-#u1808-143
+#u1808-145
 {
 	z-index: 62;
 	width: 551px;
@@ -313,12 +313,12 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
-#u1808-3,#u1808-51,#u1808-71,#u1808-79,#u1808-89,#u1808-97,#u1808-109
+#u1808-3,#u1808-53,#u1808-73,#u1808-81,#u1808-91,#u1808-99,#u1808-111
 {
 	text-align: center;
 }
 
-#u1808-47 > li:before,#u1808-47 .list1 > li:before,#u1808-55 > li:before,#u1808-59 > li:before,#u1808-63 > li:before,#u1808-67 > li:before,#u1808-75 > li:before,#u1808-85 > li:before,#u1808-93 > li:before,#u1808-101 > li:before,#u1808-105 > li:before,#u1808-141 > li:before
+#u1808-49 > li:before,#u1808-49 .list1 > li:before,#u1808-57 > li:before,#u1808-61 > li:before,#u1808-65 > li:before,#u1808-69 > li:before,#u1808-77 > li:before,#u1808-87 > li:before,#u1808-95 > li:before,#u1808-103 > li:before,#u1808-107 > li:before,#u1808-143 > li:before
 {
 	content: '-';
 }

@@ -1,14 +1,14 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1479507667305">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1486782504613">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
-    <file name="master_a-master.css" crc="4265662589" ref="cv:imitation:apartment-no.1-3:visual-shows:index:and-time:margraue"/>
-    <file name="cv.css" crc="518554698" ref="cv"/>
-    <file name="imitation.css" crc="4020892428" ref="imitation"/>
-    <file name="apartment-no_1-3.css" crc="4125089964" ref="apartment-no.1-3"/>
-    <file name="visual-shows.css" crc="4191957437" ref="visual-shows"/>
-    <file name="index.css" crc="311535059" ref="index"/>
-    <file name="and-time.css" crc="530345227" ref="and-time"/>
+    <file name="master_a-master.css" crc="4265662589" ref="margraue:cv:apartment-no.1-3:visual-shows:and-time:index:imitation"/>
     <file name="margraue.css" crc="41230302" ref="margraue"/>
+    <file name="cv.css" crc="462500447" ref="cv"/>
+    <file name="apartment-no_1-3.css" crc="118659981" ref="apartment-no.1-3"/>
+    <file name="visual-shows.css" crc="4191957437" ref="visual-shows"/>
+    <file name="and-time.css" crc="530345227" ref="and-time"/>
+    <file name="index.css" crc="311535059" ref="index"/>
+    <file name="imitation.css" crc="4150040033" ref="imitation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:visual-shows:margraue:imitation:apartment-no.1-3:and-time:cv"/>
@@ -27,6 +27,7 @@
     <file name="screen shot 2015-11-26 at 11752 pm.jpg" crc="514005849" seo="true" ref="apartment-no.1-3"/>
     <file name="screen shot 2015-11-26 at 11533 pm.jpg" crc="233255328" seo="true" ref="apartment-no.1-3"/>
     <file name="screen shot 2015-11-26 at 11418 pm.jpg" crc="305078699" seo="true" ref="apartment-no.1-3"/>
+    <file name="screen shot 2017-02-10 at 100238 pm.jpg" crc="232762866" seo="true" ref="apartment-no.1-3"/>
     <file name="screen shot 2015-11-26 at 13821 pm.jpg" crc="3959676609" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 13850 pm.jpg" crc="4037691446" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 14017 pm.jpg" crc="3812336997" seo="true" ref="and-time"/>
@@ -34,11 +35,11 @@
     <file name="screen shot 2015-11-26 at 14119 pm.jpg" crc="444033592" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 14205 pm.jpg" crc="3762929853" seo="true" ref="and-time"/>
   </folder>
-  <file name="index.html" crc="361580290" seo="true" mt="1479504490059" redirect="true"/>
-  <file name="visual-shows.html" crc="3897751039" seo="true" mt="1479504480639" redirect="true"/>
-  <file name="margraue.html" crc="518038886" seo="true" mt="1479504480546" redirect="true"/>
-  <file name="imitation.html" crc="277048917" seo="true" mt="1479504480639" redirect="true"/>
-  <file name="apartment-no.1-3.html" crc="147223601" seo="true" mt="1479504480546" redirect="true"/>
-  <file name="and-time.html" crc="4066289034" seo="true" mt="1479504480546" redirect="true"/>
-  <file name="cv.html" crc="4124614387" seo="true" mt="1479504480591" redirect="true"/>
+  <file name="index.html" crc="92545187" seo="true" mt="1486782048063" redirect="true"/>
+  <file name="visual-shows.html" crc="200101424" seo="true" mt="1486782048063" redirect="true"/>
+  <file name="margraue.html" crc="231911662" seo="true" mt="1486782048063" redirect="true"/>
+  <file name="imitation.html" crc="3788791673" seo="true" mt="1486782048063" redirect="true"/>
+  <file name="apartment-no.1-3.html" crc="4170351397" seo="true" mt="1486782449605" redirect="true"/>
+  <file name="and-time.html" crc="37297799" seo="true" mt="1486782048063" redirect="true"/>
+  <file name="cv.html" crc="67776834" seo="true" mt="1486782048063" redirect="true"/>
 </manifest>
