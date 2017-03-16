@@ -1,7 +1,7 @@
 .version.visual_shows /* version checker */
 {
-	color: #0000F9;
-	background-color: #DC31BD;
+	color: #0000EC;
+	background-color: #812E3E;
 }
 
 .html
@@ -34,7 +34,7 @@
 	width: 235px;
 	padding-left: 23px;
 	padding-top: 36px;
-	padding-bottom: 857.0721729766027px;
+	padding-bottom: 844.5395369933392px;
 	margin-right: -10000px;
 }
 
@@ -215,7 +215,7 @@
 #u1623-4
 {
 	z-index: 44;
-	width: 22px;
+	width: 40px;
 	min-height: 22px;
 	margin-left: 1px;
 	margin-top: 18px;
@@ -226,7 +226,7 @@
 	z-index: 52;
 	width: 56px;
 	min-height: 22px;
-	margin-top: 23px;
+	margin-top: 34px;
 }
 
 #u815-4
@@ -234,7 +234,7 @@
 	z-index: 35;
 	width: 56px;
 	min-height: 22px;
-	margin-top: 22px;
+	margin-top: 34px;
 }
 
 #u1586-4
@@ -261,7 +261,7 @@
 {
 	z-index: 63;
 	width: 258px;
-	height: 2916px;
+	height: 2462px;
 	border-color: #000000;
 	background-color: #F6F6F6;
 	position: relative;
@@ -274,12 +274,12 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 64px;
-	margin-left: 347px;
+	margin-left: 352px;
 }
 
 #u1846-4
 {
-	z-index: 71;
+	z-index: 65;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
@@ -287,19 +287,19 @@
 	text-align: center;
 	font-size: 16px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 123px;
+	margin-left: 119px;
 	position: relative;
 }
 
 #u1847
 {
-	z-index: 75;
+	z-index: 69;
 	width: 419px;
 	height: 6px;
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: 40px;
+	margin-left: 36px;
 	margin-top: 6px;
 	position: relative;
 	border-width: 1px 0px 0px;
@@ -313,27 +313,163 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 5px;
 	margin-top: 30px;
 	position: relative;
 }
 
-#u1840
+#u2051
 {
-	z-index: 69;
-	width: 490px;
+	z-index: 74;
+	width: 419px;
+	height: 6px;
+	border-style: solid;
+	border-color: #000000;
 	background-color: transparent;
-	margin-left: 5px;
-	margin-top: 30px;
+	margin-left: 40px;
+	margin-top: 27px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2050-4
+{
+	z-index: 70;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 118px;
+	margin-top: 41px;
 	position: relative;
 }
 
-#u1834
+#u2052
 {
-	z-index: 67;
+	z-index: 75;
+	width: 490px;
+	min-height: 321px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 41px;
+	position: relative;
+}
+
+#u2054
+{
+	z-index: 76;
 	width: 490px;
 	background-color: transparent;
-	margin-left: 5px;
+	margin-top: 36px;
+	position: relative;
+}
+
+#u2060-11
+{
+	z-index: 78;
+	width: 490px;
+	min-height: 68px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u2070
+{
+	z-index: 94;
+	width: 419px;
+	height: 6px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: 36px;
+	margin-top: 50px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2067-4
+{
+	z-index: 89;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 119px;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u2068
+{
+	z-index: 93;
+	width: 490px;
+	min-height: 321px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-top: 38px;
+	position: relative;
+}
+
+#u2071
+{
+	z-index: 95;
+	width: 488px;
+	background-color: transparent;
+	margin-left: 2px;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u2077-12
+{
+	z-index: 97;
+	width: 490px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 16px;
+	position: relative;
+}
+
+#u2079
+{
+	z-index: 113;
+	width: 419px;
+	height: 6px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: 35px;
+	margin-top: 28px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2078-4
+{
+	z-index: 109;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 118px;
+	margin-top: 42px;
 	position: relative;
 }
 
@@ -345,17 +481,38 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 101px;
+	margin-left: 4px;
+	margin-top: 42px;
 	position: relative;
 }
 
-#u1813
+#u2093
 {
-	z-index: 65;
+	z-index: 125;
 	width: 500px;
 	background-color: transparent;
-	margin-top: 42px;
+	margin-left: 4px;
+	margin-top: 30px;
 	position: relative;
+}
+
+#u2080-11
+{
+	z-index: 114;
+	width: 490px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 5px;
+	margin-top: 29px;
+	position: relative;
+}
+
+#u2060,#u2077,#u2077-3,#u2077-5,#u2080
+{
+	font-style: italic;
 }
 
 body

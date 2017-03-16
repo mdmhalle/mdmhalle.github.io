@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #0000F7;
-	background-color: #5C95E1;
+	color: #000010;
+	background-color: #0E1937;
 }
 
 .html
@@ -13,11 +13,12 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 2352px;
+	min-height: 2347px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
+	padding-bottom: 5px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -34,7 +35,7 @@
 	width: 235px;
 	padding-left: 23px;
 	padding-top: 36px;
-	padding-bottom: 857.0721729766027px;
+	padding-bottom: 844.5395369933392px;
 	margin-right: -10000px;
 }
 
@@ -215,7 +216,7 @@
 #u1623-4
 {
 	z-index: 44;
-	width: 22px;
+	width: 40px;
 	min-height: 22px;
 	margin-left: 1px;
 	margin-top: 18px;
@@ -226,7 +227,7 @@
 	z-index: 52;
 	width: 56px;
 	min-height: 22px;
-	margin-top: 23px;
+	margin-top: 34px;
 }
 
 #u815-4
@@ -234,7 +235,7 @@
 	z-index: 35;
 	width: 56px;
 	min-height: 22px;
-	margin-top: 22px;
+	margin-top: 34px;
 }
 
 #u1586-4
@@ -259,9 +260,9 @@
 
 #u898
 {
-	z-index: 89;
+	z-index: 87;
 	width: 258px;
-	height: 1888px;
+	height: 1493px;
 	border-color: #000000;
 	background-color: #F6F6F6;
 	position: relative;
@@ -279,7 +280,7 @@
 
 #u1864-4
 {
-	z-index: 91;
+	z-index: 89;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
@@ -293,7 +294,7 @@
 
 #u1865
 {
-	z-index: 95;
+	z-index: 93;
 	width: 419px;
 	height: 6px;
 	border-style: solid;
@@ -305,23 +306,26 @@
 	border-width: 1px 0px 0px;
 }
 
-#u388
+#u2088
 {
-	z-index: 63;
-	width: 494px;
+	z-index: 111;
+	width: 495px;
+	min-height: 370px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
 	margin-left: 3px;
-	margin-top: 16px;
+	margin-top: 14px;
 	position: relative;
 }
 
 #u398
 {
-	z-index: 65;
+	z-index: 63;
 	width: 495px;
 	background-color: transparent;
 	margin-left: 3px;
-	margin-top: 12px;
+	margin-top: 14px;
 	position: relative;
 }
 
@@ -346,7 +350,7 @@
 
 #u1872
 {
-	z-index: 98;
+	z-index: 96;
 	width: 241px;
 	background-color: transparent;
 	position: relative;
@@ -355,7 +359,7 @@
 
 #u1866
 {
-	z-index: 96;
+	z-index: 94;
 	width: 240px;
 	background-color: transparent;
 	position: relative;
@@ -365,12 +369,12 @@
 
 #u403-4
 {
-	z-index: 67;
+	z-index: 65;
 	width: 496px;
 	min-height: 17px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 3px;
 	margin-top: 12px;
@@ -379,7 +383,7 @@
 
 #u407-4
 {
-	z-index: 71;
+	z-index: 69;
 	width: 454px;
 	min-height: 33px;
 	background-color: transparent;
@@ -394,12 +398,12 @@
 
 #u1887-6
 {
-	z-index: 107;
+	z-index: 105;
 	width: 147px;
 	min-height: 19px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 170px;
 	margin-top: 44px;
@@ -423,7 +427,7 @@
 
 #u1880
 {
-	z-index: 105;
+	z-index: 103;
 	width: 101px;
 	background-color: transparent;
 	margin-bottom: -16px;
@@ -435,7 +439,7 @@
 
 #u1878-4
 {
-	z-index: 100;
+	z-index: 98;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
@@ -450,7 +454,7 @@
 
 #u1879
 {
-	z-index: 104;
+	z-index: 102;
 	width: 419px;
 	height: 6px;
 	border-style: solid;
@@ -471,12 +475,12 @@
 
 #u417-4
 {
-	z-index: 75;
+	z-index: 73;
 	width: 423px;
 	min-height: 17px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -486,7 +490,7 @@
 
 #u1572
 {
-	z-index: 90;
+	z-index: 88;
 	width: 423px;
 	min-height: 760px;
 	border-style: none;
@@ -498,7 +502,7 @@
 
 #u419-6
 {
-	z-index: 79;
+	z-index: 77;
 	width: 485px;
 	min-height: 45px;
 	background-color: transparent;
@@ -512,7 +516,7 @@
 
 #u421-4
 {
-	z-index: 85;
+	z-index: 83;
 	width: 102px;
 	min-height: 9px;
 	background-color: transparent;
