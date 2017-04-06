@@ -1,7 +1,7 @@
 .version.visual_shows /* version checker */
 {
-	color: #00001C;
-	background-color: #AD9511;
+	color: #000012;
+	background-color: #DE7011;
 }
 
 .html
@@ -373,9 +373,19 @@
 	width: 490px;
 	min-height: 68px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 11px;
+	position: relative;
+}
+
+#u2121
+{
+	z-index: 127;
+	width: 68px;
+	background-color: transparent;
+	margin-left: 211px;
 	margin-top: 11px;
 	position: relative;
 }
@@ -388,8 +398,8 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: 36px;
-	margin-top: 50px;
+	margin-left: 35px;
+	margin-top: 23px;
 	position: relative;
 	border-width: 1px 0px 0px;
 }
@@ -437,8 +447,8 @@
 	width: 490px;
 	min-height: 37px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-top: 16px;
 	position: relative;
@@ -469,7 +479,7 @@
 	font-size: 16px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 118px;
-	margin-top: 42px;
+	margin-top: 29px;
 	position: relative;
 }
 
@@ -502,8 +512,8 @@
 	width: 490px;
 	min-height: 37px;
 	background-color: transparent;
-	font-size: 12px;
 	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 5px;
 	margin-top: 29px;

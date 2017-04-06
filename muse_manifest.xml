@@ -1,24 +1,26 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1491360865505">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1491509517083">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
-    <file name="master_a-master.css" crc="4265662589" ref="index:apartment-no.1-4:visual-shows:and-time:imitation:margraue"/>
-    <file name="index.css" crc="4246666408" ref="index"/>
+    <file name="master_a-master.css" crc="4265662589" ref="index:imitation:bio:apartment-no.1-4:visual-shows:and-time:margraue"/>
+    <file name="index.css" crc="4152083545" ref="index"/>
+    <file name="imitation.css" crc="269359415" ref="imitation"/>
+    <file name="bio.css" crc="16619909" ref="bio"/>
     <file name="apartment-no_1-4.css" crc="4265748765" ref="apartment-no.1-4"/>
-    <file name="visual-shows.css" crc="481137937" ref="visual-shows"/>
+    <file name="visual-shows.css" crc="316567569" ref="visual-shows"/>
     <file name="and-time.css" crc="4149242527" ref="and-time"/>
-    <file name="imitation.css" crc="4102377868" ref="imitation"/>
     <file name="margraue.css" crc="4221205159" ref="margraue"/>
   </folder>
   <folder name="assets">
     <file name="cv-2017.pdf" crc="4124173971" seo="true" mt="1491177734000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time"/>
-    <file name="museutils.js" crc="275725342" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
+    <file name="museutils.js" crc="275725342" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
   </folder>
   <folder name="images">
     <file name="1489332993753979531040-crop-u2054.jpg" crc="4262201459" ref="visual-shows"/>
+    <file name="logo_city of ottawa_bw.jpg" crc="108763502" seo="true" ref="visual-shows"/>
     <file name="13840561_10153910574224075_281647699_o.jpg" crc="430677548" seo="true" ref="visual-shows"/>
     <file name="screen shot 2015-11-25 at 15002 pm.jpg" crc="3916010335" seo="true" ref="visual-shows"/>
     <file name="imitation still 3.jpg" crc="4065719628" seo="true" ref="imitation"/>
@@ -35,10 +37,11 @@
     <file name="screen shot 2015-11-26 at 14119 pm.jpg" crc="444033592" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 14205 pm.jpg" crc="3762929853" seo="true" ref="and-time"/>
   </folder>
-  <file name="index.html" crc="3996777545" seo="true" mt="1491351228546" redirect="true"/>
-  <file name="visual-shows.html" crc="95931541" seo="true" mt="1491351186720" redirect="true"/>
-  <file name="margraue.html" crc="4069197627" seo="true" mt="1491351186720" redirect="true"/>
-  <file name="imitation.html" crc="4113694693" seo="true" mt="1491351186720" redirect="true"/>
-  <file name="apartment-no.1-4.html" crc="143096840" seo="true" mt="1491351186720" redirect="true"/>
-  <file name="and-time.html" crc="56759918" seo="true" mt="1491351186720" redirect="true"/>
+  <file name="index.html" crc="385323464" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="visual-shows.html" crc="281515072" seo="true" mt="1491509462802" redirect="true"/>
+  <file name="margraue.html" crc="3994001425" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="imitation.html" crc="334026841" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="apartment-no.1-4.html" crc="503786219" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="and-time.html" crc="343884439" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="bio.html" crc="359579072" seo="true" mt="1491509356853" redirect="true"/>
 </manifest>
