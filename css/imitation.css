@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #0000F1;
-	background-color: #2DB6B4;
+	color: #00001C;
+	background-color: #C9079B;
 }
 
 .html
@@ -24,7 +24,7 @@
 
 #page_position_content
 {
-	padding-bottom: 282px;
+	padding-bottom: 192px;
 	width: 0.01px;
 }
 
@@ -38,7 +38,7 @@
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: 61px;
-	margin-left: 351px;
+	margin-left: 348px;
 }
 
 #u1864-4
@@ -51,7 +51,7 @@
 	text-align: center;
 	font-size: 16px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 122px;
+	margin-left: 124px;
 	position: relative;
 }
 
@@ -63,7 +63,7 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: 39px;
+	margin-left: 41px;
 	margin-top: 6px;
 	position: relative;
 	border-width: 1px 0px 0px;
@@ -77,6 +77,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
+	margin-left: 3px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -86,6 +87,7 @@
 	z-index: 63;
 	width: 495px;
 	background-color: transparent;
+	margin-left: 3px;
 	margin-top: 14px;
 	position: relative;
 }
@@ -111,9 +113,30 @@
 	line-height: 14px;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 1px;
+	margin-left: 3px;
 	margin-top: 24px;
 	position: relative;
+}
+
+#u2127-4
+{
+	z-index: 108;
+	width: 500px;
+	min-height: 53px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 13px;
+	position: relative;
+}
+
+#pu407-4
+{
+	width: 0.01px;
+	margin-left: 23px;
+	margin-top: 21px;
 }
 
 #u407-4
@@ -126,9 +149,48 @@
 	text-align: center;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 28px;
-	margin-top: 31px;
 	position: relative;
+	margin-right: -10000px;
+}
+
+#u2131-3
+{
+	z-index: 116;
+	width: 5px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 366px;
+}
+
+#pu1886
+{
+	width: 0.01px;
+	margin-left: 176px;
+	margin-top: 34px;
+}
+
+#u1886
+{
+	z-index: 62;
+	width: 117px;
+	height: 26px;
+	background-color: #000000;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 24px;
+	left: 15px;
+}
+
+#u1880
+{
+	z-index: 99;
+	width: 101px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+	left: 23px;
 }
 
 #u1887-6
@@ -140,36 +202,13 @@
 	line-height: 14px;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 168px;
-	margin-top: 44px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u1887
 {
 	font-size: 12px;
-}
-
-#u1886
-{
-	z-index: 62;
-	width: 117px;
-	background-color: #000000;
-	margin-left: 183px;
-	margin-top: 2px;
-	position: relative;
-}
-
-#u1880
-{
-	z-index: 99;
-	width: 101px;
-	background-color: transparent;
-	margin-bottom: -16px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -11px;
-	left: 7px;
 }
 
 #u1878-4
@@ -182,8 +221,8 @@
 	text-align: center;
 	font-size: 16px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 108px;
-	margin-top: 103px;
+	margin-left: 113px;
+	margin-top: 62px;
 	position: relative;
 }
 
@@ -195,7 +234,7 @@
 	border-style: solid;
 	border-color: #000000;
 	background-color: transparent;
-	margin-left: 25px;
+	margin-left: 30px;
 	margin-top: 6px;
 	position: relative;
 	border-width: 1px 0px 0px;
@@ -204,7 +243,7 @@
 #pu417-4
 {
 	width: 0.01px;
-	margin-left: 23px;
+	margin-left: 28px;
 	margin-top: 10px;
 }
 
@@ -219,7 +258,7 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 602px;
+	margin-top: 601px;
 	left: 1px;
 }
 
@@ -485,6 +524,20 @@
 	left: 62px;
 }
 
+#u2130-4
+{
+	z-index: 112;
+	width: 498px;
+	min-height: 64px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 338px;
+	margin-top: 26px;
+	position: relative;
+}
+
 #u419-6
 {
 	z-index: 77;
@@ -495,8 +548,8 @@
 	text-align: center;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 349px;
-	margin-top: 28px;
+	margin-left: 338px;
+	margin-top: 15px;
 	position: relative;
 }
 
@@ -510,8 +563,8 @@
 	text-align: center;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 534px;
-	margin-top: 28px;
+	margin-left: 536px;
+	margin-top: 23px;
 	position: relative;
 }
 

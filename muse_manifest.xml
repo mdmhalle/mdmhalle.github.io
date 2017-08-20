@@ -1,17 +1,17 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1491509858074">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1503203134144">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
-    <file name="master_a-master.css" crc="4265662589" ref="index:imitation:bio:apartment-no.1-4:visual-shows:and-time:margraue"/>
-    <file name="index.css" crc="4152083545" ref="index"/>
-    <file name="imitation.css" crc="4046304948" ref="imitation"/>
-    <file name="bio.css" crc="16619909" ref="bio"/>
+    <file name="master_a-master.css" crc="4265662589" ref="margraue:apartment-no.1-4:visual-shows:imitation:index:and-time:bio"/>
+    <file name="margraue.css" crc="4221205159" ref="margraue"/>
     <file name="apartment-no_1-4.css" crc="4265748765" ref="apartment-no.1-4"/>
     <file name="visual-shows.css" crc="316567569" ref="visual-shows"/>
+    <file name="imitation.css" crc="482936731" ref="imitation"/>
+    <file name="index.css" crc="4152083545" ref="index"/>
     <file name="and-time.css" crc="4149242527" ref="and-time"/>
-    <file name="margraue.css" crc="4221205159" ref="margraue"/>
+    <file name="bio.css" crc="16619909" ref="bio"/>
   </folder>
   <folder name="assets">
-    <file name="cv-2017.pdf" crc="4124173971" seo="true" mt="1491177734000"/>
+    <file name="cv-2017.pdf" crc="3900467811" seo="true" mt="1503203079000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
@@ -38,7 +38,7 @@
   <file name="index.html" crc="385323464" seo="true" mt="1491509356853" redirect="true"/>
   <file name="visual-shows.html" crc="281515072" seo="true" mt="1491509462802" redirect="true"/>
   <file name="margraue.html" crc="3994001425" seo="true" mt="1491509356853" redirect="true"/>
-  <file name="imitation.html" crc="378420270" seo="true" mt="1491509844555" redirect="true"/>
+  <file name="imitation.html" crc="251236906" seo="true" mt="1503202595414" redirect="true"/>
   <file name="apartment-no.1-4.html" crc="503786219" seo="true" mt="1491509356853" redirect="true"/>
   <file name="and-time.html" crc="343884439" seo="true" mt="1491509356853" redirect="true"/>
   <file name="bio.html" crc="359579072" seo="true" mt="1491509356853" redirect="true"/>
