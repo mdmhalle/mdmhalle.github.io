@@ -1,7 +1,7 @@
-.version.bio /* version checker */
+.version.lullaby_of_memories /* version checker */
 {
-	color: #000010;
-	background-color: #AC25C4;
+	color: #00001E;
+	background-color: #67C3A3;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1183px;
+	min-height: 856px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -318,26 +318,78 @@
 	left: 51px;
 }
 
-#u2116-8
+#pu2238-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 69px;
+	margin-left: 348px;
+}
+
+#u2238-4
+{
+	z-index: 78;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 151px;
+	position: relative;
+}
+
+#u2239
+{
+	z-index: 82;
+	width: 419px;
+	height: 6px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: 68px;
+	margin-top: 6px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2235-5
 {
 	z-index: 73;
-	width: 551px;
-	min-height: 87px;
+	width: 422px;
+	min-height: 15px;
 	background-color: transparent;
-	line-height: 13px;
-	font-size: 11px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 66px;
+	margin-top: 378px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 99px;
-	left: 339px;
+}
+
+#u2235-2
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
+#u2240-27
+{
+	z-index: 83;
+	width: 540px;
+	min-height: 73px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 24px;
+	position: relative;
 }
 
 body
 {
 	position: relative;
 	min-width: 960px;
-	padding-bottom: 74px;
 }
 
 #page .verticalspacer

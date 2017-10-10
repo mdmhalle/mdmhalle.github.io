@@ -1,30 +1,32 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1503203134144">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1507672887591">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
-    <file name="master_a-master.css" crc="4265662589" ref="margraue:apartment-no.1-4:visual-shows:imitation:index:and-time:bio"/>
-    <file name="margraue.css" crc="4221205159" ref="margraue"/>
-    <file name="apartment-no_1-4.css" crc="4265748765" ref="apartment-no.1-4"/>
-    <file name="visual-shows.css" crc="316567569" ref="visual-shows"/>
-    <file name="imitation.css" crc="482936731" ref="imitation"/>
-    <file name="index.css" crc="4152083545" ref="index"/>
-    <file name="and-time.css" crc="4149242527" ref="and-time"/>
-    <file name="bio.css" crc="16619909" ref="bio"/>
+    <file name="master_a-master.css" crc="4225703741" ref="index:imitation:travel-sketches:margraue:apartment-no.1-4:the-waterfall:lullaby-of-memories:love,-dear-love:and-time:bio:contact:synesthesia"/>
+    <file name="index.css" crc="6614129" ref="index"/>
+    <file name="imitation.css" crc="4067983635" ref="imitation"/>
+    <file name="travel-sketches.css" crc="3956793788" ref="travel-sketches"/>
+    <file name="margraue.css" crc="164937784" ref="margraue"/>
+    <file name="apartment-no_1-4.css" crc="376879140" ref="apartment-no.1-4"/>
+    <file name="the-waterfall.css" crc="53462270" ref="the-waterfall"/>
+    <file name="lullaby-of-memories.css" crc="510116771" ref="lullaby-of-memories"/>
+    <file name="love_-dear-love.css" crc="267630364" ref="love,-dear-love"/>
+    <file name="and-time.css" crc="8796258" ref="and-time"/>
+    <file name="bio.css" crc="279717316" ref="bio"/>
+    <file name="contact.css" crc="225078739" ref="contact"/>
+    <file name="synesthesia.css" crc="3948569494" ref="synesthesia"/>
   </folder>
   <folder name="assets">
-    <file name="cv-2017.pdf" crc="3900467811" seo="true" mt="1503203079000"/>
+    <file name="cv-2017.pdf" crc="253809219" seo="true" mt="1507672577000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
-    <file name="museutils.js" crc="275725342" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:visual-shows:margraue:imitation:apartment-no.1-4:and-time:bio"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:the-waterfall:margraue:imitation:apartment-no.1-4:and-time:bio:contact:love,-dear-love:synesthesia:travel-sketches:lullaby-of-memories"/>
+    <file name="museutils.js" crc="275725342" ref="index:the-waterfall:margraue:imitation:apartment-no.1-4:and-time:bio:contact:love,-dear-love:synesthesia:travel-sketches:lullaby-of-memories"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:the-waterfall:margraue:imitation:apartment-no.1-4:and-time:bio:contact:love,-dear-love:synesthesia:travel-sketches:lullaby-of-memories"/>
   </folder>
   <folder name="images">
-    <file name="1489332993753979531040-crop-u2054.jpg" crc="4262201459" ref="visual-shows"/>
-    <file name="logo_city of ottawa_bw.jpg" crc="108763502" seo="true" ref="visual-shows"/>
-    <file name="13840561_10153910574224075_281647699_o.jpg" crc="430677548" seo="true" ref="visual-shows"/>
-    <file name="screen shot 2015-11-25 at 15002 pm.jpg" crc="3916010335" seo="true" ref="visual-shows"/>
-    <file name="imitation still 3.jpg" crc="4065719628" seo="true" ref="imitation"/>
-    <file name="logo_videographe_blanc_fond_noir2.png" crc="4049280659" seo="true" ref="imitation"/>
+    <file name="1489332993753979531040-crop-u2054.jpg" crc="4262201459" ref="the-waterfall"/>
+    <file name="logo_city of ottawa_bw.jpg" crc="108763502" seo="true" ref="the-waterfall"/>
+    <file name="untitled drawing.jpg" crc="404588482" seo="true" ref="margraue"/>
     <file name="screen shot 2015-11-26 at 11752 pm.jpg" crc="514005849" seo="true" ref="apartment-no.1-4"/>
     <file name="screen shot 2015-11-26 at 11418 pm.jpg" crc="305078699" seo="true" ref="apartment-no.1-4"/>
     <file name="screen shot 2017-02-10 at 100238 pm.jpg" crc="232762866" seo="true" ref="apartment-no.1-4"/>
@@ -34,12 +36,20 @@
     <file name="screen shot 2015-11-26 at 14049 pm.jpg" crc="3927544749" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 14119 pm.jpg" crc="444033592" seo="true" ref="and-time"/>
     <file name="screen shot 2015-11-26 at 14205 pm.jpg" crc="3762929853" seo="true" ref="and-time"/>
+    <file name="13840561_10153910574224075_281647699_o.jpg" crc="430677548" seo="true" ref="love,-dear-love"/>
+    <file name="screen shot 2017-10-08 at 72840 pm.jpg" crc="8167377" seo="true" ref="travel-sketches"/>
+    <file name="screen shot 2017-10-09 at 80036 pm.jpg" crc="4220162379" seo="true" ref="travel-sketches"/>
   </folder>
-  <file name="index.html" crc="385323464" seo="true" mt="1491509356853" redirect="true"/>
-  <file name="visual-shows.html" crc="281515072" seo="true" mt="1491509462802" redirect="true"/>
-  <file name="margraue.html" crc="3994001425" seo="true" mt="1491509356853" redirect="true"/>
-  <file name="imitation.html" crc="251236906" seo="true" mt="1503202595414" redirect="true"/>
-  <file name="apartment-no.1-4.html" crc="503786219" seo="true" mt="1491509356853" redirect="true"/>
-  <file name="and-time.html" crc="343884439" seo="true" mt="1491509356853" redirect="true"/>
-  <file name="bio.html" crc="359579072" seo="true" mt="1491509356853" redirect="true"/>
+  <file name="index.html" crc="4187588009" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="the-waterfall.html" crc="3950505181" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="margraue.html" crc="505526435" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="imitation.html" crc="4132966735" seo="true" mt="1507672747399" redirect="true"/>
+  <file name="apartment-no.1-4.html" crc="269489161" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="and-time.html" crc="332478434" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="bio.html" crc="3801942046" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="contact.html" crc="3911861805" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="love,-dear-love.html" crc="245957248" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="synesthesia.html" crc="516199634" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="travel-sketches.html" crc="3937951521" seo="true" mt="1507672468480" redirect="true"/>
+  <file name="lullaby-of-memories.html" crc="490934333" seo="true" mt="1507672468480" redirect="true"/>
 </manifest>

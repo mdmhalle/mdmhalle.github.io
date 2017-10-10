@@ -1,7 +1,7 @@
-.version.bio /* version checker */
+.version.travel_sketches /* version checker */
 {
-	color: #000010;
-	background-color: #AC25C4;
+	color: #0000EB;
+	background-color: #D7E1BC;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1183px;
+	min-height: 856px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -318,26 +318,106 @@
 	left: 51px;
 }
 
-#u2116-8
+#pu2226-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 73px;
+	margin-left: 364px;
+}
+
+#u2226-4
+{
+	z-index: 83;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 120px;
+	position: relative;
+}
+
+#u2227
+{
+	z-index: 87;
+	width: 419px;
+	height: 6px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: 37px;
+	margin-top: 6px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2218
+{
+	z-index: 75;
+	width: 493px;
+	background-color: transparent;
+	margin-top: 24px;
+	position: relative;
+}
+
+#u2224-5
+{
+	z-index: 77;
+	width: 422px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u2225
+{
+	z-index: 82;
+	width: 309px;
+	height: 3px;
+	border-style: solid;
+	border-color: #000000;
+	background-color: #FFFFFF;
+	margin-left: 133px;
+	margin-top: 44px;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u2212
 {
 	z-index: 73;
-	width: 551px;
-	min-height: 87px;
+	width: 493px;
 	background-color: transparent;
-	line-height: 13px;
-	font-size: 11px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 43px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 99px;
-	left: 339px;
+}
+
+#u2228-5
+{
+	z-index: 88;
+	width: 422px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-top: 15px;
+	position: relative;
+}
+
+#u2224-2,#u2228-2
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 }
 
 body
 {
 	position: relative;
 	min-width: 960px;
-	padding-bottom: 74px;
 }
 
 #page .verticalspacer

@@ -1,7 +1,7 @@
-.version.bio /* version checker */
+.version.synesthesia /* version checker */
 {
-	color: #000010;
-	background-color: #AC25C4;
+	color: #0000EB;
+	background-color: #5A6396;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 1183px;
+	min-height: 856px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -318,26 +318,63 @@
 	left: 51px;
 }
 
-#u2116-8
+#pu2164-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 86px;
+	margin-left: 363px;
+}
+
+#u2164-4
+{
+	z-index: 74;
+	width: 253px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 19px;
+	text-align: center;
+	font-size: 16px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 124px;
+	position: relative;
+}
+
+#u2162
 {
 	z-index: 73;
-	width: 551px;
-	min-height: 87px;
+	width: 500px;
+	min-height: 320px;
+	border-style: none;
+	border-color: transparent;
 	background-color: transparent;
-	line-height: 13px;
-	font-size: 11px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 22px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 99px;
-	left: 339px;
+}
+
+#u2165-11
+{
+	z-index: 78;
+	width: 490px;
+	min-height: 37px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 5px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u2165
+{
+	font-style: italic;
 }
 
 body
 {
 	position: relative;
 	min-width: 960px;
-	padding-bottom: 74px;
 }
 
 #page .verticalspacer
