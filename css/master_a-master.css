@@ -8,14 +8,23 @@
 #u804-4
 {
 	background-color: transparent;
-	line-height: 22px;
-	font-size: 18px;
 	letter-spacing: 2px;
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u1826-4,#u1897-5
+#u1586-4
+{
+	background-color: transparent;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-style: italic;
+	position: relative;
+}
+
+#u1897-5
 {
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
@@ -54,7 +63,15 @@
 	visibility: inherit;
 }
 
-#u808-4,#u2187-5
+#u1826-4,#u808-4
+{
+	background-color: transparent;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	font-weight: bold;
+	position: relative;
+}
+
+#u2187-5
 {
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
@@ -141,18 +158,10 @@
 	line-height: 14px;
 }
 
-#u2241-4,#u1623-4,#u815-4
+#u2241-4,#u1623-4,#u3100-4,#u2352-4
 {
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-}
-
-#u1586-4
-{
-	background-color: transparent;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	font-style: italic;
 	position: relative;
 }
 
