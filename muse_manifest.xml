@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1517853398303">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1517853539513">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
     <file name="master_a-master.css" crc="4033416839" ref="margraue:travel-sketches:index:apartment-no.1-4:contact:and-time:love,-dear-love:the-waterfall:imitation:lullaby-of-memories:bio:synesthesia"/>
@@ -10,7 +10,7 @@
     <file name="and-time.css" crc="317389336" ref="and-time"/>
     <file name="love_-dear-love.css" crc="4271181087" ref="love,-dear-love"/>
     <file name="the-waterfall.css" crc="145617739" ref="the-waterfall"/>
-    <file name="imitation.css" crc="6531502" ref="imitation"/>
+    <file name="imitation.css" crc="4073096909" ref="imitation"/>
     <file name="lullaby-of-memories.css" crc="4235204982" ref="lullaby-of-memories"/>
     <file name="bio.css" crc="342613014" ref="bio"/>
     <file name="synesthesia.css" crc="3833025038" ref="synesthesia"/>
@@ -96,7 +96,7 @@
   <file name="index.html" crc="3925414514" seo="true" mt="1517853180844" redirect="true"/>
   <file name="the-waterfall.html" crc="521203431" seo="true" mt="1517851733635" redirect="true"/>
   <file name="margraue.html" crc="428556368" seo="true" mt="1517851787506" redirect="true"/>
-  <file name="imitation.html" crc="4033835477" seo="true" mt="1517851708293" redirect="true"/>
+  <file name="imitation.html" crc="4101913128" seo="true" mt="1517853519188" redirect="true"/>
   <file name="apartment-no.1-4.html" crc="503450403" seo="true" mt="1517849891599" redirect="true"/>
   <file name="and-time.html" crc="4049110637" seo="true" mt="1517851798702" redirect="true"/>
   <file name="bio.html" crc="4138839299" seo="true" mt="1517850052211" redirect="true"/>

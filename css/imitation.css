@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #000000;
-	background-color: #63A9AE;
+	color: #0000F2;
+	background-color: #C686CD;
 }
 
 .html
@@ -147,7 +147,7 @@
 
 #u3171
 {
-	z-index: 150;
+	z-index: 152;
 	width: 113px;
 	height: 6px;
 	border-style: solid;
@@ -159,7 +159,7 @@
 	border-width: 1px 0px 0px;
 }
 
-#u3168-9
+#u3168-11
 {
 	z-index: 141;
 	width: 499px;
@@ -581,7 +581,7 @@
 	position: relative;
 }
 
-#u3168,#u3168-2,#u3168-4,#u3168-7,#u2130-2
+#u3168,#u3168-2,#u3168-4,#u3168-9,#u2130-2
 {
 	font-style: italic;
 }
