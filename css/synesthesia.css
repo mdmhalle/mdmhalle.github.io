@@ -1,7 +1,7 @@
 .version.synesthesia /* version checker */
 {
-	color: #000019;
-	background-color: #10B099;
+	color: #0000E4;
+	background-color: #77520E;
 }
 
 .html
@@ -26,16 +26,16 @@
 {
 	width: 0.01px;
 	margin-right: -10000px;
-	margin-top: -37px;
-	margin-left: 11px;
+	margin-top: -38px;
+	margin-left: 10px;
 }
 
 #u803
 {
 	z-index: 2;
-	width: 235px;
+	width: 236px;
 	margin-right: -10000px;
-	padding: 69px 12px 72.7030125523014px 11px;
+	padding: 69px 11px 34.703012552301516px;
 }
 
 #u804-4
@@ -43,7 +43,7 @@
 	z-index: 3;
 	width: 213px;
 	min-height: 35px;
-	margin-left: 11px;
+	margin-left: 12px;
 }
 
 #u1586-4
@@ -51,7 +51,7 @@
 	z-index: 31;
 	width: 119px;
 	min-height: 26px;
-	margin-left: 61px;
+	margin-left: 62px;
 }
 
 #u1826-4
@@ -180,12 +180,39 @@
 	margin: 13px 0px 0px 1px;
 }
 
+#u3159-5
+{
+	z-index: 77;
+	width: 175px;
+	min-height: 23px;
+	margin-left: 2px;
+	margin-top: 14px;
+}
+
+#u3159-5:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 175px;
+	margin: 14px 0px 0px 2px;
+}
+
+#u3159-5.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 175px;
+	margin: 14px 0px 0px 2px;
+}
+
 #u811-5
 {
 	z-index: 16;
 	width: 234px;
 	min-height: 23px;
-	margin-left: 1px;
+	margin-left: 2px;
 	margin-top: 14px;
 }
 
@@ -195,7 +222,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 234px;
-	margin: 14px 0px 0px 1px;
+	margin: 14px 0px 0px 2px;
 }
 
 #u811-5.MuseLinkActive
@@ -204,7 +231,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 234px;
-	margin: 14px 0px 0px 1px;
+	margin: 14px 0px 0px 2px;
 }
 
 #u813-5
@@ -212,7 +239,7 @@
 	z-index: 26;
 	width: 234px;
 	min-height: 21px;
-	margin-left: 1px;
+	margin-left: 2px;
 	margin-top: 14px;
 }
 
@@ -222,7 +249,7 @@
 	padding-bottom: 0px;
 	min-height: 21px;
 	width: 234px;
-	margin: 14px 0px 0px 1px;
+	margin: 14px 0px 0px 2px;
 }
 
 #u813-5.MuseLinkActive
@@ -231,7 +258,34 @@
 	padding-bottom: 0px;
 	min-height: 21px;
 	width: 234px;
-	margin: 14px 0px 0px 1px;
+	margin: 14px 0px 0px 2px;
+}
+
+#u812-5
+{
+	z-index: 21;
+	width: 168px;
+	min-height: 21px;
+	margin-left: 2px;
+	margin-top: 14px;
+}
+
+#u812-5:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 168px;
+	margin: 14px 0px 0px 2px;
+}
+
+#u812-5.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 21px;
+	width: 168px;
+	margin: 14px 0px 0px 2px;
 }
 
 #u809-5
@@ -239,7 +293,7 @@
 	z-index: 11;
 	width: 136px;
 	min-height: 23px;
-	margin-left: 1px;
+	margin-left: 3px;
 	margin-top: 13px;
 }
 
@@ -249,7 +303,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 136px;
-	margin: 13px 0px 0px 1px;
+	margin: 13px 0px 0px 3px;
 }
 
 #u809-5.MuseLinkActive
@@ -258,34 +312,7 @@
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 136px;
-	margin: 13px 0px 0px 1px;
-}
-
-#u812-5
-{
-	z-index: 21;
-	width: 168px;
-	min-height: 21px;
-	margin-left: 2px;
-	margin-top: 13px;
-}
-
-#u812-5:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 21px;
-	width: 168px;
-	margin: 13px 0px 0px 2px;
-}
-
-#u812-5.MuseLinkActive
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 21px;
-	width: 168px;
-	margin: 13px 0px 0px 2px;
+	margin: 13px 0px 0px 3px;
 }
 
 #u1896
@@ -294,7 +321,7 @@
 	width: 113px;
 	height: 6px;
 	margin-left: 43px;
-	margin-top: 11px;
+	margin-top: 14px;
 }
 
 #u2241-4
@@ -302,7 +329,7 @@
 	z-index: 65;
 	width: 86px;
 	min-height: 22px;
-	margin-top: 40px;
+	margin-top: 36px;
 }
 
 #u1623-4
@@ -310,7 +337,7 @@
 	z-index: 36;
 	width: 40px;
 	min-height: 22px;
-	margin-left: 1px;
+	margin-left: 2px;
 	margin-top: 26px;
 }
 
@@ -336,8 +363,8 @@
 	width: 113px;
 	height: 6px;
 	margin-right: -10000px;
-	margin-top: 98px;
-	left: 72px;
+	margin-top: 99px;
+	left: 73px;
 }
 
 #pu2164-4
@@ -350,7 +377,7 @@
 
 #u2164-4
 {
-	z-index: 78;
+	z-index: 83;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
@@ -364,7 +391,7 @@
 
 #u2162
 {
-	z-index: 77;
+	z-index: 82;
 	width: 500px;
 	min-height: 320px;
 	border-style: none;
@@ -376,7 +403,7 @@
 
 #u2165-11
 {
-	z-index: 82;
+	z-index: 87;
 	width: 490px;
 	min-height: 37px;
 	background-color: transparent;
