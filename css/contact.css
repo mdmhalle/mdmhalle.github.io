@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
-	color: #0000ED;
-	background-color: #3425CC;
+	color: #0000EA;
+	background-color: #2CA08D;
 }
 
 .html
@@ -373,8 +373,8 @@
 	width: 199px;
 	min-height: 22px;
 	background-color: transparent;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

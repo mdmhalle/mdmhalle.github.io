@@ -1,7 +1,7 @@
 .version.apartment_no_1_4 /* version checker */
 {
-	color: #000010;
-	background-color: #30E739;
+	color: #0000FC;
+	background-color: #4AE713;
 }
 
 .html
@@ -49,9 +49,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 126px;
 	position: relative;

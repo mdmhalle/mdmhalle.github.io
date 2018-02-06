@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #0000E6;
-	background-color: #0638DA;
+	color: #0000FB;
+	background-color: #EABADA;
 }
 
 @-ms-viewport
@@ -109,28 +109,6 @@
 	position: relative;
 }
 
-#pu2944
-{
-	width: 0.01px;
-	padding-bottom: 11px;
-	margin-left: 19px;
-	margin-top: 43px;
-}
-
-#u2944
-{
-	z-index: 37;
-	width: 87px;
-	background-color: transparent;
-	-webkit-transform: matrix(0,-1,1,0,11,76);
-	-ms-transform: matrix(0,-1,1,0,11,76);
-	transform: matrix(0,-1,1,0,11,76);
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 11px;
-	left: -11px;
-}
-
 #u2942-4
 {
 	z-index: 33;
@@ -139,9 +117,9 @@
 	background-color: transparent;
 	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 166px;
+	margin-top: 43px;
 	position: relative;
-	margin-right: -10000px;
-	left: 147px;
 }
 
 #u2903
@@ -185,7 +163,7 @@
 {
 	z-index: 3;
 	min-height: 35px;
-	margin-top: 9px;
+	margin-top: 74px;
 }
 
 body

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #3CF466;
+	color: #000000;
+	background-color: #A57173;
 }
 
 @-ms-viewport
@@ -139,9 +139,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -165,9 +165,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -191,6 +191,16 @@
 	margin-right: -10000px;
 }
 
+#u3113:hover
+{
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	width: 137px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u2928-6
 {
 	z-index: 61;
@@ -198,9 +208,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -250,10 +260,10 @@
 	width: 100px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #7F7F7F;
-	line-height: 14px;
+	color: #000000;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -270,7 +280,7 @@
 	margin-right: -10000px;
 }
 
-#u2872:hover,#u2875:hover
+#u3089:hover,#u2872:hover,#u2875:hover
 {
 	opacity: 0.8;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
@@ -299,9 +309,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -331,10 +341,10 @@
 	width: 100px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #7F7F7F;
-	line-height: 14px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -370,15 +380,24 @@
 	width: 101px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 38px;
+	margin-top: 28px;
 	left: 19px;
+}
+
+#u2935-2
+{
+	color: #000000;
+}
+
+#u2935-4,#u2935-6
+{
+	color: #FFFFFF;
 }
 
 #ppu2887
@@ -404,7 +423,7 @@
 	margin-right: -10000px;
 }
 
-#u2887:hover
+#u3194:hover,#u2887:hover
 {
 	opacity: 0.8;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
@@ -421,9 +440,9 @@
 	min-height: 29px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -456,10 +475,10 @@
 	width: 100px;
 	min-height: 20px;
 	background-color: transparent;
-	color: #7F7F7F;
-	line-height: 14px;
+	color: #FFFFFF;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #000014;
-	background-color: #6BDC16;
+	color: #0000ED;
+	background-color: #A46BAD;
 }
 
 .html
@@ -374,8 +374,8 @@
 	width: 551px;
 	min-height: 87px;
 	background-color: transparent;
-	line-height: 13px;
 	font-size: 11px;
+	line-height: 13px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;

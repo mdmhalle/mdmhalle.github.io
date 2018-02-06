@@ -1,7 +1,7 @@
 .version.and_time /* version checker */
 {
-	color: #000012;
-	background-color: #EAFA18;
+	color: #00001A;
+	background-color: #21FCBA;
 }
 
 .html
@@ -50,9 +50,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 125px;
 	position: relative;

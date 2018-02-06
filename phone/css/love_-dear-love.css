@@ -1,7 +1,7 @@
 .version.love__dear_love /* version checker */
 {
-	color: #00001F;
-	background-color: #A7AEF8;
+	color: #000017;
+	background-color: #D45D0C;
 }
 
 @-ms-viewport
@@ -102,9 +102,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 64px;
 	margin-top: 24px;
@@ -137,20 +137,6 @@
 #u2950,#u2950-3,#u2950-5
 {
 	font-style: italic;
-}
-
-#u2952
-{
-	z-index: 52;
-	width: 87px;
-	background-color: transparent;
-	-webkit-transform: matrix(0,-1,1,0,11,76);
-	-ms-transform: matrix(0,-1,1,0,11,76);
-	transform: matrix(0,-1,1,0,11,76);
-	margin-left: 11px;
-	margin-top: 18px;
-	margin-bottom: 11px;
-	position: relative;
 }
 
 #u2903
@@ -194,7 +180,7 @@
 {
 	z-index: 3;
 	min-height: 35px;
-	margin-top: 18px;
+	margin-top: 112px;
 }
 
 body

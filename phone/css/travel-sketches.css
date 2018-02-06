@@ -1,7 +1,7 @@
 .version.travel_sketches /* version checker */
 {
-	color: #0000F4;
-	background-color: #EB2EDF;
+	color: #000010;
+	background-color: #D61C20;
 }
 
 @-ms-viewport
@@ -102,9 +102,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 64px;
 	margin-top: 18px;
@@ -128,7 +128,7 @@
 
 #u3174
 {
-	z-index: 51;
+	z-index: 49;
 	width: 341px;
 	background-color: transparent;
 	margin-left: 19px;
@@ -149,7 +149,7 @@
 
 #u3176-7
 {
-	z-index: 53;
+	z-index: 51;
 	width: 341px;
 	min-height: 50px;
 	background-color: transparent;
@@ -162,7 +162,7 @@
 
 #u3177
 {
-	z-index: 60;
+	z-index: 58;
 	width: 113px;
 	height: 6px;
 	border-style: solid;
@@ -176,7 +176,7 @@
 
 #u3173-14
 {
-	z-index: 37;
+	z-index: 35;
 	width: 341px;
 	min-height: 17px;
 	background-color: transparent;
@@ -207,20 +207,6 @@
 #u3173,#u3173-2,#u3173-4,#u3173-6,#u3173-10,#u3173-12
 {
 	font-style: italic;
-}
-
-#u2984
-{
-	z-index: 35;
-	width: 87px;
-	background-color: transparent;
-	-webkit-transform: matrix(0,-1,1,0,11,76);
-	-ms-transform: matrix(0,-1,1,0,11,76);
-	transform: matrix(0,-1,1,0,11,76);
-	margin-left: 8px;
-	margin-top: 54px;
-	margin-bottom: 11px;
-	position: relative;
 }
 
 #u2903
@@ -264,7 +250,7 @@
 {
 	z-index: 3;
 	min-height: 35px;
-	margin-top: 14px;
+	margin-top: 144px;
 }
 
 body
