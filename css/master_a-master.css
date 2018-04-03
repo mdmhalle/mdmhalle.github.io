@@ -8,10 +8,10 @@
 #u804-4
 {
 	background-color: transparent;
-	letter-spacing: 2px;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
+	letter-spacing: 2px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }

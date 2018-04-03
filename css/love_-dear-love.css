@@ -1,7 +1,7 @@
 .version.love__dear_love /* version checker */
 {
-	color: #000005;
-	background-color: #3C2545;
+	color: #00001A;
+	background-color: #91EC9F;
 }
 
 .html
@@ -381,9 +381,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 119px;
 	position: relative;

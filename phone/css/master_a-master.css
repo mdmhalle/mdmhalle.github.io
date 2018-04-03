@@ -9,10 +9,10 @@
 #u2904-4
 {
 	background-color: transparent;
-	letter-spacing: 2px;
+	line-height: 22px;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
+	letter-spacing: 2px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
@@ -42,7 +42,7 @@
 	border-width: 1px 0px 0px;
 }
 
-#u2908-4,#u2907-4,#u2909-4
+#u2908-4,#u2907-5,#u2909-4
 {
 	background-color: transparent;
 	text-align: center;

@@ -1,7 +1,7 @@
 .version.the_waterfall /* version checker */
 {
-	color: #000016;
-	background-color: #0A848F;
+	color: #0000E5;
+	background-color: #8BB4E8;
 }
 
 .html
@@ -50,9 +50,9 @@
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 118px;
 	position: relative;

@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #0000FB;
-	background-color: #EABADA;
+	color: #0000E3;
+	background-color: #65C281;
 }
 
 @-ms-viewport
@@ -98,7 +98,7 @@
 
 #u2941-8
 {
-	z-index: 25;
+	z-index: 26;
 	width: 346px;
 	min-height: 209px;
 	background-color: transparent;
@@ -111,7 +111,7 @@
 
 #u2942-4
 {
-	z-index: 33;
+	z-index: 34;
 	width: 199px;
 	min-height: 22px;
 	background-color: transparent;
@@ -131,7 +131,7 @@
 
 #u2908-4
 {
-	z-index: 17;
+	z-index: 18;
 	width: 86px;
 	min-height: 22px;
 	margin-right: -10000px;
@@ -139,7 +139,7 @@
 	left: 38px;
 }
 
-#u2907-4
+#u2907-5
 {
 	z-index: 13;
 	width: 40px;
@@ -151,7 +151,7 @@
 
 #u2909-4
 {
-	z-index: 21;
+	z-index: 22;
 	width: 43px;
 	min-height: 22px;
 	margin-right: -10000px;

@@ -1,7 +1,7 @@
 .version.love__dear_love /* version checker */
 {
-	color: #000017;
-	background-color: #D45D0C;
+	color: #00001D;
+	background-color: #D159C6;
 }
 
 @-ms-viewport
@@ -98,13 +98,13 @@
 
 #u2947-4
 {
-	z-index: 25;
+	z-index: 26;
 	width: 253px;
 	min-height: 20px;
 	background-color: transparent;
+	line-height: 19px;
 	text-align: center;
 	font-size: 16px;
-	line-height: 19px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 64px;
 	margin-top: 24px;
@@ -113,7 +113,7 @@
 
 #u2948
 {
-	z-index: 29;
+	z-index: 30;
 	width: 335px;
 	background-color: transparent;
 	margin-left: 22px;
@@ -123,7 +123,7 @@
 
 #u2950-21
 {
-	z-index: 31;
+	z-index: 32;
 	width: 336px;
 	min-height: 183px;
 	background-color: transparent;
@@ -148,7 +148,7 @@
 
 #u2908-4
 {
-	z-index: 17;
+	z-index: 18;
 	width: 86px;
 	min-height: 22px;
 	margin-right: -10000px;
@@ -156,7 +156,7 @@
 	left: 38px;
 }
 
-#u2907-4
+#u2907-5
 {
 	z-index: 13;
 	width: 40px;
@@ -168,7 +168,7 @@
 
 #u2909-4
 {
-	z-index: 21;
+	z-index: 22;
 	width: 43px;
 	min-height: 22px;
 	margin-right: -10000px;
