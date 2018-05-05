@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000FD;
-	background-color: #11AAA5;
+	color: #000015;
+	background-color: #F56B86;
 }
 
 .html
@@ -212,9 +212,9 @@
 	line-height: 14px;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 170px;
-	top: -6px;
-	margin-bottom: -6px;
+	margin-left: 169px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
 }
 
@@ -226,7 +226,7 @@
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 169px;
-	margin-top: 30px;
+	margin-top: 28px;
 	position: relative;
 }
 

@@ -3,7 +3,13 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "ocean-sketch.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "ocean-sketch.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?3899419633" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/ocean-sketch.html');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -11,6 +17,7 @@
   <meta name="keywords" content="ocean sketch #1 matthieu hallé super8 short film black and white b&amp;w portugal ottawa free-lensing digital to film transfer"/>
   <meta name="generator" content="2015.0.2.310"/>
   <title>ocean sketch</title>
+  <link media="only screen and (max-device-width: 370px)" rel="alternate" href="http://matthieuhalle.com/phone/ocean-sketch.html"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?4250165691"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-master.css?3770581378"/>

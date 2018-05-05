@@ -1,7 +1,7 @@
 .version.love__dear_love /* version checker */
 {
-	color: #00001D;
-	background-color: #D159C6;
+	color: #0000F6;
+	background-color: #250B8A;
 }
 
 @-ms-viewport
@@ -37,150 +37,165 @@
 #page
 {
 	z-index: 1;
-	width: 380px;
-	min-height: 719.9500000000002px;
+	width: 350px;
+	min-height: 425.51905209948364px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding-bottom: 0px;
+	padding: 36px 10px 108.48094790051636px 20px;
 }
 
-#page_position_content
-{
-	padding-bottom: 1px;
-	width: 0.01px;
-}
-
-#pu2910
-{
-	width: 0.01px;
-}
-
-#u2910
+#u3457-4
 {
 	z-index: 2;
-	min-height: 60px;
-	padding: 21px 81px 8px 86px;
-}
-
-#u2904-4
-{
-	z-index: 4;
-	width: 213px;
+	width: 212px;
 	min-height: 35px;
 }
 
-#u2905-4
+#u3457-4:hover
 {
-	z-index: 8;
-	width: 119px;
-	min-height: 26px;
-	margin-left: 50px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 35px;
+	width: 212px;
+	margin: 0px;
 }
 
-#u2910-bw
+#ppu3460-4
 {
-	z-index: 2;
-	min-height: 60px;
-	margin-bottom: -1px;
+	width: 0.01px;
+	margin-top: 18px;
 }
 
-#u2906
+#pu3460-4
 {
-	z-index: 12;
-	width: 113px;
-	height: 6px;
+	width: 0.01px;
+	padding-bottom: 1px;
 	margin-right: -10000px;
-	margin-top: 50px;
-	left: 136px;
+	margin-top: 2px;
 }
 
-#u2947-4
+#u3460-4
 {
-	z-index: 26;
-	width: 253px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 19px;
-	text-align: center;
-	font-size: 16px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 64px;
-	margin-top: 24px;
-	position: relative;
+	z-index: 14;
+	width: 90px;
+	min-height: 22px;
 }
 
-#u2948
+#u3460-4:hover
 {
-	z-index: 30;
-	width: 335px;
-	background-color: transparent;
-	margin-left: 22px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u3460-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 0px;
+}
+
+#u3458-4
+{
+	z-index: 6;
+	width: 90px;
+	min-height: 22px;
 	margin-top: 20px;
-	position: relative;
 }
 
-#u2950-21
+#u3458-4:hover
 {
-	z-index: 32;
-	width: 336px;
-	min-height: 183px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 20px 0px 0px;
+}
+
+#u3461-4
+{
+	z-index: 18;
+	width: 90px;
+	min-height: 22px;
+	margin-top: 20px;
+}
+
+#u3458-4.MuseLinkActive,#u3461-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 20px 0px 0px;
+}
+
+#u3459-4
+{
+	z-index: 10;
+	width: 90px;
+	min-height: 22px;
+	margin-top: 20px;
+}
+
+#u3461-4.MuseLinkActive,#u3459-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 20px 0px 0px;
+}
+
+#u3459-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 20px 0px 0px;
+}
+
+#u3495
+{
+	z-index: 22;
+	width: 250px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 100px;
+}
+
+#u3497-21
+{
+	z-index: 24;
+	width: 350px;
+	min-height: 214px;
 	background-color: transparent;
 	font-size: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 22px;
-	margin-top: 21px;
+	margin-top: 8px;
 	position: relative;
 }
 
-#u2950,#u2950-3,#u2950-5
+#u3497,#u3497-3,#u3497-5
 {
 	font-style: italic;
 }
 
-#u2903
+#u3497-15
 {
-	z-index: 3;
-	min-height: 35px;
-	padding-bottom: 13px;
+	text-align: left;
 }
 
-#u2908-4
+#u3497-7,#u3497-8,#u3497-10,#u3497-11,#u3497-13,#u3497-17,#u3497-19
 {
-	z-index: 18;
-	width: 86px;
-	min-height: 22px;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 38px;
-}
-
-#u2907-5
-{
-	z-index: 13;
-	width: 40px;
-	min-height: 22px;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 188px;
-}
-
-#u2909-4
-{
-	z-index: 22;
-	width: 43px;
-	min-height: 22px;
-	margin-right: -10000px;
-	margin-top: 12px;
-	left: 292px;
-}
-
-#u2903-bw
-{
-	z-index: 3;
-	min-height: 35px;
-	margin-top: 112px;
+	text-align: justify;
 }
 
 body

@@ -1,7 +1,32 @@
 .version.view /* version checker */
 {
-	color: #000009;
-	background-color: #ECA2B3;
+	color: #0000F9;
+	background-color: #B08C5F;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
 }
 
 .html
@@ -12,60 +37,68 @@
 #page
 {
 	z-index: 1;
-	width: 508px;
-	min-height: 446px;
+	width: 328px;
+	min-height: 427px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	margin-left: auto;
-	margin-right: auto;
-	padding: 50px 422px 360px 30px;
+	padding: 36px 32px 107px 20px;
 }
 
-#u3263-4
+#u3457-4
 {
 	z-index: 2;
-	width: 197px;
+	width: 212px;
 	min-height: 35px;
 }
 
-#u3263-4:hover
+#u3457-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 35px;
-	width: 197px;
+	width: 212px;
 	margin: 0px;
 }
 
-#pu3266-4
+#pu3460-4
 {
 	width: 0.01px;
-	margin-top: 20px;
+	margin-top: 17px;
 }
 
-#u3266-4
+#u3460-4
 {
 	z-index: 14;
-	width: 86px;
+	width: 90px;
 	min-height: 22px;
 	margin-right: -10000px;
+	margin-top: 2px;
 }
 
-#u3266-4:hover
+#u3460-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 86px;
-	margin: 0px -10000px 0px 0px;
+	width: 90px;
+	margin: 2px -10000px 0px 0px;
 }
 
-#u3293-4
+#u3460-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 2px -10000px 0px 0px;
+}
+
+#u3480-4
 {
 	z-index: 22;
-	width: 197px;
+	width: 198px;
 	min-height: 24px;
 	background-color: transparent;
 	line-height: 18px;
@@ -74,43 +107,43 @@
 	font-weight: bold;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 170px;
+	left: 110px;
 }
 
-#pu3264-4
+#pu3458-4
 {
 	width: 0.01px;
-	margin-top: 13px;
+	margin-top: 15px;
 }
 
-#u3264-4
+#u3458-4
 {
 	z-index: 6;
-	width: 86px;
+	width: 90px;
 	min-height: 22px;
 	margin-right: -10000px;
+	margin-top: 5px;
 }
 
-#u3266-4.MuseLinkActive,#u3264-4:hover
+#u3458-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 86px;
-	margin: 0px -10000px 0px 0px;
+	width: 90px;
+	margin: 5px -10000px 0px 0px;
 }
 
-#u3264-4.MuseLinkActive
+#u3458-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 86px;
-	margin: 0px -10000px 0px 0px;
+	width: 90px;
+	margin: 5px -10000px 0px 0px;
 }
 
-#u3294-4
+#u3481-4
 {
 	z-index: 26;
 	width: 49px;
@@ -119,85 +152,51 @@
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
-	left: 170px;
+	left: 110px;
 }
 
-#u3294-4:hover
+#u3481-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 25px;
 	width: 49px;
-	margin: 2px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
-#u3294-4:hover p
+#u3481-4:hover p
 {
 	color: #7F7F7F;
 	visibility: inherit;
 }
 
-#u3267-4
+#u3461-4
 {
 	z-index: 18;
-	width: 86px;
+	width: 90px;
 	min-height: 22px;
-	margin-top: 15px;
+	margin-top: 20px;
 }
 
-#u3267-4:hover
+#u3461-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 86px;
-	margin: 15px 0px 0px;
+	width: 90px;
+	margin: 20px 0px 0px;
 }
 
-#u3267-4.MuseLinkActive
+#u3461-4.MuseLinkActive
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
-	width: 86px;
-	margin: 15px 0px 0px;
+	width: 90px;
+	margin: 20px 0px 0px;
 }
 
-#pu3265-4
-{
-	width: 0.01px;
-	margin-top: 15px;
-}
-
-#u3265-4
-{
-	z-index: 10;
-	width: 86px;
-	min-height: 22px;
-	margin-right: -10000px;
-	margin-top: 4px;
-}
-
-#u3265-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 86px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#u3265-4.MuseLinkActive
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 86px;
-	margin: 4px -10000px 0px 0px;
-}
-
-#u3297-4
+#u3482-4
 {
 	z-index: 30;
 	width: 139px;
@@ -207,69 +206,103 @@
 	font-size: 15px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: bold;
+	margin-left: 110px;
+	top: -4px;
+	margin-bottom: -4px;
 	position: relative;
-	margin-right: -10000px;
-	left: 170px;
 }
 
-#u3300-5
+#pu3459-4
+{
+	width: 0.01px;
+	margin-top: 3px;
+}
+
+#u3459-4
+{
+	z-index: 10;
+	width: 90px;
+	min-height: 22px;
+	margin-right: -10000px;
+}
+
+#u3459-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3459-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3485-5
 {
 	z-index: 58;
-	width: 296px;
+	width: 162px;
 	min-height: 22px;
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 170px;
-	margin-top: 1px;
 	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 110px;
 }
 
-#u3298-12
+#u3483-12
 {
 	z-index: 34;
-	width: 338px;
+	width: 218px;
 	min-height: 89px;
 	background-color: transparent;
 	line-height: 16px;
 	font-size: 13px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 170px;
+	margin-left: 110px;
 	margin-top: 7px;
 	position: relative;
 }
 
-#u3301-5
+#u3486-5
 {
 	z-index: 63;
-	width: 296px;
+	width: 218px;
 	min-height: 22px;
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 170px;
+	margin-left: 110px;
 	margin-top: 6px;
 	position: relative;
 }
 
-#u3300,#u3301
+#u3485,#u3486
 {
 	font-style: italic;
 }
 
-#u3301-2
+#u3486-2
 {
 	font-style: normal;
 }
 
-#u3299-12
+#u3484-12
 {
 	z-index: 46;
-	width: 338px;
+	width: 218px;
 	min-height: 89px;
 	background-color: transparent;
 	line-height: 16px;
 	font-size: 13px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 170px;
+	margin-left: 110px;
 	margin-top: 7px;
 	position: relative;
 }
@@ -277,7 +310,7 @@
 body
 {
 	position: relative;
-	min-width: 960px;
+	min-width: 380px;
 }
 
 #page .verticalspacer

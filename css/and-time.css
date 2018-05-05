@@ -1,7 +1,7 @@
 .version.and_time /* version checker */
 {
-	color: #0000F6;
-	background-color: #A392B5;
+	color: #000005;
+	background-color: #939EDB;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 675px;
+	width: 752px;
 	min-height: 806px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #FFFFFF;
 	padding-left: 30px;
 	padding-top: 50px;
-	padding-right: 255px;
+	padding-right: 178px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -41,17 +41,10 @@
 	margin: 0px;
 }
 
-#ppu3266-4
-{
-	width: 0.01px;
-	margin-top: 20px;
-}
-
 #pu3266-4
 {
 	width: 0.01px;
-	padding-bottom: 1px;
-	margin-right: -10000px;
+	margin-top: 20px;
 }
 
 #u3266-4
@@ -59,6 +52,7 @@
 	z-index: 14;
 	width: 86px;
 	min-height: 22px;
+	margin-right: -10000px;
 }
 
 #u3266-4:hover
@@ -67,7 +61,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u3266-4.MuseLinkActive
@@ -76,7 +70,37 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3567-4
+{
+	z-index: 70;
+	width: 581px;
+	min-height: 21px;
+	background-color: transparent;
+	line-height: 14px;
+	text-align: justify;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 171px;
+}
+
+#ppu3264-4
+{
+	width: 0.01px;
+	margin-top: 11px;
+}
+
+#pu3264-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 5px;
 }
 
 #u3264-4
@@ -84,7 +108,6 @@
 	z-index: 6;
 	width: 86px;
 	min-height: 22px;
-	margin-top: 20px;
 }
 
 #u3264-4:hover
@@ -93,7 +116,16 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 20px 0px 0px;
+	margin: 0px;
+}
+
+#u3264-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 86px;
+	margin: 0px;
 }
 
 #u3267-4
@@ -104,7 +136,7 @@
 	margin-top: 20px;
 }
 
-#u3264-4.MuseLinkActive,#u3267-4:hover
+#u3267-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -146,7 +178,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
 	left: 171px;
 }
 
