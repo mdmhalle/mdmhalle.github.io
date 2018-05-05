@@ -1,7 +1,7 @@
 .version.view /* version checker */
 {
-	color: #000009;
-	background-color: #ECA2B3;
+	color: #0000FA;
+	background-color: #30E0DC;
 }
 
 .html
@@ -214,7 +214,7 @@
 
 #u3300-5
 {
-	z-index: 58;
+	z-index: 62;
 	width: 296px;
 	min-height: 22px;
 	background-color: transparent;
@@ -224,7 +224,7 @@
 	position: relative;
 }
 
-#u3298-12
+#u3298-14
 {
 	z-index: 34;
 	width: 338px;
@@ -240,7 +240,7 @@
 
 #u3301-5
 {
-	z-index: 63;
+	z-index: 67;
 	width: 296px;
 	min-height: 22px;
 	background-color: transparent;
@@ -260,9 +260,9 @@
 	font-style: normal;
 }
 
-#u3299-12
+#u3299-14
 {
-	z-index: 46;
+	z-index: 48;
 	width: 338px;
 	min-height: 89px;
 	background-color: transparent;
