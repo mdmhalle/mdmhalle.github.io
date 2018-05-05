@@ -1,13 +1,7 @@
-#u3230
+#u3263-4
 {
 	background-color: transparent;
-	position: relative;
-}
-
-#u804-4
-{
-	background-color: transparent;
-	color: #FFFFFF;
+	color: #575757;
 	line-height: 26px;
 	text-align: left;
 	font-size: 22px;
@@ -16,39 +10,57 @@
 	position: relative;
 }
 
-#u2241-4
+#u3266-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #575757;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u3100-4
+#u3263-4:hover p,#u3263-4:hover h1,#u3266-4:hover p,#u3266-4:hover h2,#u3266-4.MuseLinkActive p,#u3266-4.MuseLinkActive h2
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u3264-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #575757;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u3212-4
+#u3264-4:hover p,#u3264-4:hover h2,#u3264-4.MuseLinkActive p,#u3264-4.MuseLinkActive h2
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u3267-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #575757;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u3213-4
+#u3267-4:hover p,#u3267-4:hover h2,#u3267-4.MuseLinkActive p,#u3267-4.MuseLinkActive h2
+{
+	color: #000000;
+	visibility: inherit;
+}
+
+#u3265-4
 {
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #575757;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	position: relative;
 }
 
-#u804-4:hover p,#u804-4:hover h1,#u2241-4:hover p,#u2241-4:hover h2,#u3100-4:hover p,#u3100-4:hover h2,#u3212-4:hover p,#u3212-4:hover h2,#u3213-4:hover p,#u3213-4:hover h2
+#u3265-4:hover p,#u3265-4:hover h2,#u3265-4.MuseLinkActive p,#u3265-4.MuseLinkActive h2
 {
 	color: #000000;
 	visibility: inherit;
