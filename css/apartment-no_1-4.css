@@ -1,7 +1,7 @@
 .version.apartment_no_1_4 /* version checker */
 {
-	color: #00000D;
-	background-color: #539770;
+	color: #0000F6;
+	background-color: #60E189;
 }
 
 .html
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	width: 676px;
+	width: 746px;
 	min-height: 1536.5234937238495px;
 	background-image: none;
 	border-style: none;
@@ -20,7 +20,7 @@
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 50px 254px 81.47650627615053px 30px;
+	padding: 50px 184px 81.47650627615053px 30px;
 }
 
 #u3263-4
@@ -74,7 +74,7 @@
 #u3574-4
 {
 	z-index: 49;
-	width: 505px;
+	width: 575px;
 	min-height: 41px;
 	background-color: transparent;
 	line-height: 14px;
