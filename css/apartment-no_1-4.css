@@ -1,7 +1,7 @@
 .version.apartment_no_1_4 /* version checker */
 {
-	color: #0000F2;
-	background-color: #E22D8B;
+	color: #00000D;
+	background-color: #539770;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 676px;
-	min-height: 1486.5234937238492px;
+	min-height: 1536.5234937238495px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 50px 254px 131.47650627615076px 30px;
+	padding: 50px 254px 81.47650627615053px 30px;
 }
 
 #u3263-4
@@ -39,17 +39,10 @@
 	margin: 0px;
 }
 
-#ppu3266-4
-{
-	width: 0.01px;
-	margin-top: 20px;
-}
-
 #pu3266-4
 {
 	width: 0.01px;
-	padding-bottom: 1px;
-	margin-right: -10000px;
+	margin-top: 20px;
 }
 
 #u3266-4
@@ -57,6 +50,7 @@
 	z-index: 14;
 	width: 86px;
 	min-height: 22px;
+	margin-right: -10000px;
 }
 
 #u3266-4:hover
@@ -65,7 +59,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u3266-4.MuseLinkActive
@@ -74,7 +68,35 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u3574-4
+{
+	z-index: 49;
+	width: 505px;
+	min-height: 41px;
+	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 5px;
+	left: 171px;
+}
+
+#ppu3264-4
+{
+	width: 0.01px;
+	margin-top: -4px;
+}
+
+#pu3264-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
 }
 
 #u3264-4
@@ -82,7 +104,6 @@
 	z-index: 6;
 	width: 86px;
 	min-height: 22px;
-	margin-top: 20px;
 }
 
 #u3264-4:hover
@@ -91,7 +112,16 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 86px;
-	margin: 20px 0px 0px;
+	margin: 0px;
+}
+
+#u3264-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 86px;
+	margin: 0px;
 }
 
 #u3267-4
@@ -102,7 +132,7 @@
 	margin-top: 20px;
 }
 
-#u3264-4.MuseLinkActive,#u3267-4:hover
+#u3267-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -144,8 +174,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
-	left: 171px;
+	margin-top: 13px;
+	left: 170px;
 }
 
 #u442-5
@@ -154,7 +184,7 @@
 	width: 422px;
 	min-height: 17px;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 9px;
 	position: relative;
 }
@@ -167,7 +197,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 54px;
 	position: relative;
 }
@@ -178,7 +208,7 @@
 	width: 392px;
 	min-height: 17px;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 9px;
 	position: relative;
 }
@@ -188,7 +218,7 @@
 	z-index: 22;
 	width: 505px;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 37px;
 	position: relative;
 }
@@ -199,7 +229,7 @@
 	width: 384px;
 	min-height: 17px;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 9px;
 	position: relative;
 }
@@ -220,7 +250,7 @@
 	width: 396px;
 	min-height: 17px;
 	background-color: transparent;
-	margin-left: 171px;
+	margin-left: 170px;
 	margin-top: 10px;
 	position: relative;
 }

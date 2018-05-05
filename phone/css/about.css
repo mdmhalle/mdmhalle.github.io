@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #0000F6;
-	background-color: #372760;
+	color: #000013;
+	background-color: #D94A15;
 }
 
 @-ms-viewport
@@ -230,11 +230,11 @@
 #u3478-6
 {
 	z-index: 38;
-	width: 163px;
+	width: 182px;
 	min-height: 32px;
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-top: 17px;
+	margin-top: 5px;
 	position: relative;
 }
 

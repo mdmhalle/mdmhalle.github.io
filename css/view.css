@@ -1,7 +1,7 @@
 .version.view /* version checker */
 {
-	color: #0000FA;
-	background-color: #30E0DC;
+	color: #0000FF;
+	background-color: #0145D6;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 508px;
-	min-height: 446px;
+	min-height: 458.8234937238492px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 50px 422px 360px 30px;
+	padding: 50px 422px 347.1765062761508px 30px;
 }
 
 #u3263-4
@@ -246,7 +246,7 @@
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 170px;
-	margin-top: 6px;
+	margin-top: 19px;
 	position: relative;
 }
 
@@ -270,7 +270,7 @@
 	font-size: 13px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 170px;
-	margin-top: 7px;
+	margin-top: 6px;
 	position: relative;
 }
 

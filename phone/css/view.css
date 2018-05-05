@@ -1,7 +1,7 @@
 .version.view /* version checker */
 {
-	color: #000009;
-	background-color: #CA8D59;
+	color: #0000EF;
+	background-color: #4C56AC;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 328px;
-	min-height: 434px;
+	min-height: 445px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding: 36px 32px 100px 20px;
+	padding: 36px 32px 89px 20px;
 }
 
 #u3457-4
@@ -279,7 +279,7 @@
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 110px;
-	margin-top: 6px;
+	margin-top: 17px;
 	position: relative;
 }
 

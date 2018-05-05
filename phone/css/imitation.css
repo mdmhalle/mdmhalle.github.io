@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #000008;
-	background-color: #146E2A;
+	color: #000000;
+	background-color: #725EA2;
 }
 
 @-ms-viewport
@@ -213,7 +213,7 @@
 {
 	z-index: 26;
 	width: 349px;
-	min-height: 33px;
+	min-height: 55px;
 	background-color: transparent;
 	line-height: 14px;
 	text-align: center;
@@ -230,7 +230,7 @@
 	width: 5px;
 	background-color: transparent;
 	margin-left: 677px;
-	margin-top: 168px;
+	margin-top: 155px;
 	position: relative;
 }
 

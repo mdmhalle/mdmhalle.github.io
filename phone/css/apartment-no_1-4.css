@@ -1,7 +1,7 @@
 .version.apartment_no_1_4 /* version checker */
 {
-	color: #0000E3;
-	background-color: #554EA2;
+	color: #0000EB;
+	background-color: #C88A0E;
 }
 
 @-ms-viewport
@@ -43,7 +43,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding: 36px 7px 71px 16px;
+	padding: 36px 6px 71px 17px;
 }
 
 #u3457-4
@@ -51,7 +51,7 @@
 	z-index: 2;
 	width: 212px;
 	min-height: 35px;
-	margin-left: 4px;
+	margin-left: 3px;
 }
 
 #u3457-4:hover
@@ -60,22 +60,7 @@
 	padding-bottom: 0px;
 	min-height: 35px;
 	width: 212px;
-	margin: 0px 0px 0px 4px;
-}
-
-#ppu3460-4
-{
-	width: 0.01px;
-	margin-left: 4px;
-	margin-top: 18px;
-}
-
-#pu3460-4
-{
-	width: 0.01px;
-	padding-bottom: 1px;
-	margin-right: -10000px;
-	margin-top: 2px;
+	margin: 0px 0px 0px 3px;
 }
 
 #u3460-4
@@ -83,6 +68,8 @@
 	z-index: 14;
 	width: 90px;
 	min-height: 22px;
+	margin-left: 3px;
+	margin-top: 20px;
 }
 
 #u3460-4:hover
@@ -91,16 +78,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 0px;
-}
-
-#u3460-4.MuseLinkActive
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 90px;
-	margin: 0px;
+	margin: 20px 0px 0px 3px;
 }
 
 #u3458-4
@@ -108,16 +86,41 @@
 	z-index: 6;
 	width: 90px;
 	min-height: 22px;
+	margin-left: 3px;
 	margin-top: 20px;
 }
 
-#u3458-4:hover
+#u3460-4.MuseLinkActive,#u3458-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 20px 0px 0px;
+	margin: 20px 0px 0px 3px;
+}
+
+#u3458-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 20px 0px 0px 3px;
+}
+
+#ppu3461-4
+{
+	width: 0.01px;
+	margin-left: 3px;
+	margin-top: 13px;
+}
+
+#pu3461-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 6px;
 }
 
 #u3461-4
@@ -125,16 +128,24 @@
 	z-index: 18;
 	width: 90px;
 	min-height: 22px;
-	margin-top: 20px;
 }
 
-#u3458-4.MuseLinkActive,#u3461-4:hover
+#u3461-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 20px 0px 0px;
+	margin: 0px;
+}
+
+#u3461-4.MuseLinkActive
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 22px;
+	width: 90px;
+	margin: 0px;
 }
 
 #u3459-4
@@ -145,7 +156,7 @@
 	margin-top: 20px;
 }
 
-#u3461-4.MuseLinkActive,#u3459-4:hover
+#u3459-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -163,43 +174,56 @@
 	margin: 20px 0px 0px;
 }
 
+#u3573-4
+{
+	z-index: 48;
+	width: 241px;
+	min-height: 66px;
+	background-color: transparent;
+	font-size: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	position: relative;
+	margin-right: -10000px;
+	left: 109px;
+}
+
 #u3526
 {
 	z-index: 24;
-	width: 250px;
+	width: 353px;
 	background-color: transparent;
+	margin-top: 14px;
 	position: relative;
-	margin-right: -10000px;
-	left: 100px;
 }
 
-#u3528-5
+#u3528-4
 {
 	z-index: 26;
-	width: 252px;
-	min-height: 30px;
+	width: 356px;
+	min-height: 36px;
 	background-color: transparent;
-	margin-left: 104px;
-	top: -2px;
-	margin-bottom: -2px;
+	line-height: 14px;
+	font-size: 12px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-top: 10px;
 	position: relative;
 }
 
 #u3534
 {
-	z-index: 48;
+	z-index: 47;
 	width: 354px;
 	min-height: 199px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	margin-top: 7px;
+	margin-top: 16px;
 	position: relative;
 }
 
 #u3529-5
 {
-	z-index: 31;
+	z-index: 30;
 	width: 350px;
 	min-height: 33px;
 	background-color: transparent;
@@ -218,7 +242,7 @@
 
 #u3530-5
 {
-	z-index: 36;
+	z-index: 35;
 	width: 355px;
 	min-height: 31px;
 	background-color: transparent;
@@ -228,7 +252,7 @@
 
 #u3531
 {
-	z-index: 41;
+	z-index: 40;
 	width: 357px;
 	background-color: transparent;
 	margin-top: 7px;
@@ -237,7 +261,7 @@
 
 #u3533-5
 {
-	z-index: 43;
+	z-index: 42;
 	width: 357px;
 	min-height: 31px;
 	background-color: transparent;
@@ -245,7 +269,7 @@
 	position: relative;
 }
 
-#u3528-2,#u3529-2,#u3530-2,#u3533-2
+#u3529-2,#u3530-2,#u3533-2
 {
 	font-size: 12px;
 	line-height: 14px;
