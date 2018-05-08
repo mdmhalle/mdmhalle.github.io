@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #000000;
-	background-color: #725EA2;
+	color: #000007;
+	background-color: #91B69D;
 }
 
 @-ms-viewport
@@ -74,7 +74,7 @@
 {
 	width: 0.01px;
 	margin-left: 20px;
-	margin-top: 18px;
+	margin-top: 20px;
 }
 
 #pu3460-4
@@ -82,7 +82,6 @@
 	width: 0.01px;
 	padding-bottom: 1px;
 	margin-right: -10000px;
-	margin-top: 2px;
 }
 
 #u3460-4
@@ -173,53 +172,54 @@
 #u3520
 {
 	z-index: 37;
-	width: 240px;
+	width: 231px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 109px;
+	margin-top: 7px;
+	left: 107px;
 }
 
 #u3516-4
 {
 	z-index: 22;
-	width: 349px;
-	min-height: 42px;
+	width: 333px;
+	min-height: 38px;
 	background-color: transparent;
 	line-height: 14px;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 20px;
-	margin-top: 8px;
+	margin-left: 26px;
+	margin-top: 14px;
 	position: relative;
 }
 
 #u3518-4
 {
 	z-index: 30;
-	width: 349px;
+	width: 333px;
 	min-height: 79px;
 	background-color: transparent;
 	line-height: 14px;
 	text-align: left;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 20px;
-	margin-top: 7px;
+	margin-left: 26px;
+	margin-top: 14px;
 	position: relative;
 }
 
 #u3517-4
 {
 	z-index: 26;
-	width: 349px;
+	width: 333px;
 	min-height: 55px;
 	background-color: transparent;
 	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	margin-left: 20px;
+	margin-left: 26px;
 	margin-top: 8px;
 	position: relative;
 }
@@ -230,7 +230,7 @@
 	width: 5px;
 	background-color: transparent;
 	margin-left: 677px;
-	margin-top: 155px;
+	margin-top: 144px;
 	position: relative;
 }
 

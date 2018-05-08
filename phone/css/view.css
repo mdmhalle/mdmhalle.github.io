@@ -1,7 +1,7 @@
 .version.view /* version checker */
 {
-	color: #0000EF;
-	background-color: #4C56AC;
+	color: #000005;
+	background-color: #6C1AD1;
 }
 
 @-ms-viewport
@@ -38,12 +38,12 @@
 {
 	z-index: 1;
 	width: 328px;
-	min-height: 445px;
+	min-height: 457.7984937238493px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding: 36px 32px 89px 20px;
+	padding: 36px 32px 76.20150627615072px 20px;
 }
 
 #u3457-4
@@ -279,7 +279,7 @@
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 110px;
-	margin-top: 17px;
+	margin-top: 30px;
 	position: relative;
 }
 
@@ -303,7 +303,7 @@
 	font-size: 13px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 110px;
-	margin-top: 7px;
+	margin-top: 6px;
 	position: relative;
 }
 
