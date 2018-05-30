@@ -1,7 +1,7 @@
 .version.view /* version checker */
 {
-	color: #000005;
-	background-color: #6C1AD1;
+	color: #000001;
+	background-color: #AC7037;
 }
 
 @-ms-viewport
@@ -37,13 +37,13 @@
 #page
 {
 	z-index: 1;
-	width: 328px;
-	min-height: 457.7984937238493px;
+	width: 341px;
+	min-height: 462.7984937238493px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
-	padding: 36px 32px 76.20150627615072px 20px;
+	padding: 36px 19px 71.20150627615072px 20px;
 }
 
 #u3457-4
@@ -199,7 +199,7 @@
 #u3482-4
 {
 	z-index: 30;
-	width: 139px;
+	width: 231px;
 	min-height: 21px;
 	background-color: transparent;
 	line-height: 18px;
@@ -212,18 +212,12 @@
 	position: relative;
 }
 
-#pu3459-4
-{
-	width: 0.01px;
-	margin-top: 3px;
-}
-
 #u3459-4
 {
 	z-index: 10;
 	width: 90px;
 	min-height: 22px;
-	margin-right: -10000px;
+	margin-top: 3px;
 }
 
 #u3459-4:hover
@@ -232,7 +226,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 0px -10000px 0px 0px;
+	margin: 3px 0px 0px;
 }
 
 #u3459-4.MuseLinkActive
@@ -241,7 +235,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 0px -10000px 0px 0px;
+	margin: 3px 0px 0px;
 }
 
 #u3485-5
@@ -251,10 +245,10 @@
 	min-height: 22px;
 	background-color: transparent;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	margin-left: 110px;
+	top: -3px;
+	margin-bottom: -3px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 4px;
-	left: 110px;
 }
 
 #u3483-14

@@ -1,21 +1,21 @@
-<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1525795831562">
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="matthieuhalle.com" resolutions="1x" timestamp="1527697133272">
   <folder name="css">
     <file name="site_global.css" crc="4250165691"/>
-    <file name="master_b-master.css" crc="3770581378" ref="the-waterfall:view:imitation:projects:about:and-time:apartment-no.1-4:synesthesia:love,-dear-love:ocean-sketch:margraue:contact"/>
-    <file name="master_a-master.css" crc="3878293791" ref="index"/>
+    <file name="master_b-master.css" crc="4187089040" ref="the-waterfall:ocean-sketch:about:contact:projects:apartment-no.1-4:view:and-time:love,-dear-love:synesthesia:margraue:imitation"/>
+    <file name="master_a-master.css" crc="279485100" ref="index"/>
     <file name="the-waterfall.css" crc="405048043" ref="the-waterfall"/>
-    <file name="view.css" crc="4278273494" ref="view"/>
-    <file name="imitation.css" crc="3792231690" ref="imitation"/>
-    <file name="index.css" crc="4293593866" ref="index"/>
-    <file name="projects.css" crc="350601973" ref="projects"/>
-    <file name="about.css" crc="493484150" ref="about"/>
-    <file name="and-time.css" crc="93560539" ref="and-time"/>
-    <file name="apartment-no_1-4.css" crc="4133544329" ref="apartment-no.1-4"/>
-    <file name="synesthesia.css" crc="4000827921" ref="synesthesia"/>
-    <file name="love_-dear-love.css" crc="4094022366" ref="love,-dear-love"/>
     <file name="ocean-sketch.css" crc="3821170807" ref="ocean-sketch"/>
-    <file name="margraue.css" crc="3793069067" ref="margraue"/>
+    <file name="about.css" crc="493484150" ref="about"/>
     <file name="contact.css" crc="4228093456" ref="contact"/>
+    <file name="projects.css" crc="350601973" ref="projects"/>
+    <file name="apartment-no_1-4.css" crc="255621565" ref="apartment-no.1-4"/>
+    <file name="view.css" crc="4064313047" ref="view"/>
+    <file name="and-time.css" crc="25336043" ref="and-time"/>
+    <file name="index.css" crc="4293593866" ref="index"/>
+    <file name="love_-dear-love.css" crc="4094022366" ref="love,-dear-love"/>
+    <file name="synesthesia.css" crc="4000827921" ref="synesthesia"/>
+    <file name="margraue.css" crc="3793069067" ref="margraue"/>
+    <file name="imitation.css" crc="4086268626" ref="imitation"/>
   </folder>
   <folder name="assets">
     <file name="cv-052018.pdf" crc="376345916" seo="true" mt="1525450674000"/>
@@ -59,47 +59,47 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="383266462" ref="phone>index"/>
-      <file name="master_b-master.css" crc="4263678778" ref="phone>projects:phone>imitation:phone>margraue:phone>synesthesia:phone>view:phone>about:phone>ocean-sketch:phone>apartment-no.1-4:phone>the-waterfall:phone>contact:phone>and-time:phone>love,-dear-love"/>
-      <file name="projects.css" crc="84430303" ref="phone>projects"/>
-      <file name="imitation.css" crc="126989981" ref="phone>imitation"/>
-      <file name="margraue.css" crc="3908608079" ref="phone>margraue"/>
+      <file name="master_a-master.css" crc="4110909135" ref="phone>index"/>
+      <file name="master_b-master.css" crc="3876452904" ref="phone>synesthesia:phone>love,-dear-love:phone>the-waterfall:phone>ocean-sketch:phone>projects:phone>about:phone>apartment-no.1-4:phone>and-time:phone>view:phone>margraue:phone>imitation:phone>contact"/>
       <file name="synesthesia.css" crc="4160070979" ref="phone>synesthesia"/>
-      <file name="view.css" crc="90970833" ref="phone>view"/>
-      <file name="about.css" crc="56015685" ref="phone>about"/>
-      <file name="ocean-sketch.css" crc="3924866131" ref="phone>ocean-sketch"/>
-      <file name="index.css" crc="4234483180" ref="phone>index"/>
-      <file name="apartment-no_1-4.css" crc="3955788302" ref="phone>apartment-no.1-4"/>
-      <file name="the-waterfall.css" crc="4189624888" ref="phone>the-waterfall"/>
-      <file name="contact.css" crc="4010354064" ref="phone>contact"/>
-      <file name="and-time.css" crc="390227888" ref="phone>and-time"/>
       <file name="love_-dear-love.css" crc="4129622922" ref="phone>love,-dear-love"/>
+      <file name="the-waterfall.css" crc="4189624888" ref="phone>the-waterfall"/>
+      <file name="index.css" crc="4234483180" ref="phone>index"/>
+      <file name="ocean-sketch.css" crc="3924866131" ref="phone>ocean-sketch"/>
+      <file name="projects.css" crc="84430303" ref="phone>projects"/>
+      <file name="about.css" crc="56015685" ref="phone>about"/>
+      <file name="apartment-no_1-4.css" crc="4262661669" ref="phone>apartment-no.1-4"/>
+      <file name="and-time.css" crc="4115535226" ref="phone>and-time"/>
+      <file name="view.css" crc="28078135" ref="phone>view"/>
+      <file name="margraue.css" crc="3908608079" ref="phone>margraue"/>
+      <file name="imitation.css" crc="472900441" ref="phone>imitation"/>
+      <file name="contact.css" crc="4010354064" ref="phone>contact"/>
     </folder>
     <file name="index.html" crc="3840579222" seo="true" mt="1525529611731" redirect="true"/>
     <file name="projects.html" crc="254204897" seo="true" mt="1525530265091" redirect="true"/>
     <file name="about.html" crc="4238702913" seo="true" mt="1525795649630" redirect="true"/>
-    <file name="view.html" crc="217622692" seo="true" mt="1525795631625" redirect="true"/>
+    <file name="view.html" crc="162517920" seo="true" mt="1527697073154" redirect="true"/>
     <file name="contact.html" crc="148140111" seo="true" mt="1525530480815" redirect="true"/>
     <file name="the-waterfall.html" crc="11776850" seo="true" mt="1525535084375" redirect="true"/>
     <file name="love,-dear-love.html" crc="4017252766" seo="true" mt="1525535066319" redirect="true"/>
     <file name="synesthesia.html" crc="4131184945" seo="true" mt="1525535041028" redirect="true"/>
     <file name="ocean-sketch.html" crc="3925095990" seo="true" mt="1525535123853" redirect="true"/>
-    <file name="imitation.html" crc="296104431" seo="true" mt="1525795789771" redirect="true"/>
-    <file name="apartment-no.1-4.html" crc="65269325" seo="true" mt="1525543870870" redirect="true"/>
-    <file name="and-time.html" crc="3765574491" seo="true" mt="1525541671547" redirect="true"/>
+    <file name="imitation.html" crc="280905006" seo="true" mt="1527697043472" redirect="true"/>
+    <file name="apartment-no.1-4.html" crc="4015742203" seo="true" mt="1527696985093" redirect="true"/>
+    <file name="and-time.html" crc="200265189" seo="true" mt="1527696992445" redirect="true"/>
     <file name="margraue.html" crc="463551106" seo="true" mt="1525541914611" redirect="true"/>
   </folder>
   <file name="index.html" crc="335592638" seo="true" mt="1525528829815" redirect="true"/>
   <file name="the-waterfall.html" crc="525720894" seo="true" mt="1525528830197" redirect="true"/>
   <file name="margraue.html" crc="3997168475" seo="true" mt="1525528830780" redirect="true"/>
-  <file name="imitation.html" crc="364186946" seo="true" mt="1525534927890" redirect="true"/>
-  <file name="apartment-no.1-4.html" crc="432572379" seo="true" mt="1525544266160" redirect="true"/>
-  <file name="and-time.html" crc="4017915615" seo="true" mt="1525541785880" redirect="true"/>
+  <file name="imitation.html" crc="225878980" seo="true" mt="1527696671220" redirect="true"/>
+  <file name="apartment-no.1-4.html" crc="4245352024" seo="true" mt="1527697101574" redirect="true"/>
+  <file name="and-time.html" crc="87966442" seo="true" mt="1527697106414" redirect="true"/>
   <file name="about.html" crc="4066689730" seo="true" mt="1525543602471" redirect="true"/>
   <file name="love,-dear-love.html" crc="405327655" seo="true" mt="1525528830281" redirect="true"/>
   <file name="synesthesia.html" crc="3823909092" seo="true" mt="1525534341638" redirect="true"/>
   <file name="ocean-sketch.html" crc="97281917" seo="true" mt="1525528830448" redirect="true"/>
   <file name="contact.html" crc="3891834433" seo="true" mt="1525528830113" redirect="true"/>
   <file name="projects.html" crc="378774010" seo="true" mt="1525528829860" redirect="true"/>
-  <file name="view.html" crc="443592072" seo="true" mt="1525543534255" redirect="true"/>
+  <file name="view.html" crc="4161997493" seo="true" mt="1527696919325" redirect="true"/>
 </manifest>

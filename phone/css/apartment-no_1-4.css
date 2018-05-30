@@ -1,7 +1,7 @@
 .version.apartment_no_1_4 /* version checker */
 {
-	color: #0000EB;
-	background-color: #C88A0E;
+	color: #0000FE;
+	background-color: #130E25;
 }
 
 @-ms-viewport
@@ -99,7 +99,16 @@
 	margin: 20px 0px 0px 3px;
 }
 
-#u3458-4.MuseLinkActive
+#u3461-4
+{
+	z-index: 18;
+	width: 90px;
+	min-height: 22px;
+	margin-left: 3px;
+	margin-top: 20px;
+}
+
+#u3458-4.MuseLinkActive,#u3461-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
@@ -108,61 +117,22 @@
 	margin: 20px 0px 0px 3px;
 }
 
-#ppu3461-4
-{
-	width: 0.01px;
-	margin-left: 3px;
-	margin-top: 13px;
-}
-
-#pu3461-4
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 6px;
-}
-
-#u3461-4
-{
-	z-index: 18;
-	width: 90px;
-	min-height: 22px;
-}
-
-#u3461-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 90px;
-	margin: 0px;
-}
-
-#u3461-4.MuseLinkActive
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 22px;
-	width: 90px;
-	margin: 0px;
-}
-
 #u3459-4
 {
 	z-index: 10;
 	width: 90px;
 	min-height: 22px;
+	margin-left: 3px;
 	margin-top: 20px;
 }
 
-#u3459-4:hover
+#u3461-4.MuseLinkActive,#u3459-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 20px 0px 0px;
+	margin: 20px 0px 0px 3px;
 }
 
 #u3459-4.MuseLinkActive
@@ -171,20 +141,7 @@
 	padding-bottom: 0px;
 	min-height: 22px;
 	width: 90px;
-	margin: 20px 0px 0px;
-}
-
-#u3573-4
-{
-	z-index: 48;
-	width: 241px;
-	min-height: 66px;
-	background-color: transparent;
-	font-size: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-	position: relative;
-	margin-right: -10000px;
-	left: 109px;
+	margin: 20px 0px 0px 3px;
 }
 
 #u3526

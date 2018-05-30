@@ -1,7 +1,7 @@
 .version.imitation /* version checker */
 {
-	color: #0000E2;
-	background-color: #08DD0A;
+	color: #0000F3;
+	background-color: #8F82D2;
 }
 
 .html
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 669px;
-	min-height: 573.6734937238491px;
+	min-height: 618.6734937238491px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 50px 261px 148.3265062761509px 30px;
+	padding: 50px 261px 103.3265062761509px 30px;
 }
 
 #u3263-4
@@ -139,7 +139,7 @@
 
 #u3322
 {
-	z-index: 34;
+	z-index: 36;
 	width: 501px;
 	background-color: transparent;
 	position: relative;
@@ -162,7 +162,7 @@
 	position: relative;
 }
 
-#u2127-4
+#u2127-6
 {
 	z-index: 30;
 	width: 500px;
@@ -175,6 +175,11 @@
 	margin-left: 169px;
 	margin-top: 12px;
 	position: relative;
+}
+
+#u2127-2
+{
+	font-style: italic;
 }
 
 #u407-4
