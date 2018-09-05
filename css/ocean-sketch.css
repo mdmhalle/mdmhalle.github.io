@@ -1,7 +1,7 @@
 .version.ocean_sketch /* version checker */
 {
-	color: #0000E3;
-	background-color: #C27077;
+	color: #0000F8;
+	background-color: #B5504D;
 }
 
 .html
@@ -12,15 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 663px;
-	min-height: 491px;
+	width: 664px;
+	min-height: 1647.8734937238492px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: #FFFFFF;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 50px 267px 100px 30px;
+	padding: 50px 266px 58.12650627615085px 30px;
 }
 
 #u3263-4
@@ -159,13 +159,6 @@
 	position: relative;
 }
 
-#u2228-2
-{
-	font-size: 12px;
-	line-height: 14px;
-	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
-}
-
 #u3169-6
 {
 	z-index: 29;
@@ -185,11 +178,81 @@
 	font-style: italic;
 }
 
+#u3577
+{
+	z-index: 35;
+	width: 493px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 25px;
+	position: relative;
+}
+
+#u3592-5
+{
+	z-index: 41;
+	width: 493px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 5px;
+	position: relative;
+}
+
+#u3583
+{
+	z-index: 37;
+	width: 495px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 13px;
+	position: relative;
+}
+
+#u3593-5
+{
+	z-index: 46;
+	width: 493px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 8px;
+	position: relative;
+}
+
+#u3586
+{
+	z-index: 39;
+	width: 495px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 23px;
+	position: relative;
+}
+
+#u3594-5
+{
+	z-index: 51;
+	width: 493px;
+	min-height: 17px;
+	background-color: transparent;
+	margin-left: 170px;
+	margin-top: 7px;
+	position: relative;
+}
+
+#u2228-2,#u3592-2,#u3593-2,#u3594-2
+{
+	font-size: 12px;
+	line-height: 14px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+}
+
 body
 {
 	position: relative;
 	min-width: 960px;
-	padding-bottom: 40px;
+	padding-bottom: 87px;
 }
 
 #page .verticalspacer

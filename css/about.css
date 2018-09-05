@@ -1,7 +1,7 @@
 .version.about /* version checker */
 {
-	color: #00001D;
-	background-color: #69F876;
+	color: #0000EA;
+	background-color: #7C07DF;
 }
 
 .html
@@ -218,29 +218,18 @@
 	position: relative;
 }
 
-#u3290-6
+#u3290-4
 {
 	z-index: 37;
 	width: 155px;
 	min-height: 32px;
 	background-color: transparent;
+	line-height: 14px;
+	font-size: 12px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	margin-left: 169px;
 	margin-top: 28px;
 	position: relative;
-}
-
-#u3290-2
-{
-	font-size: 12px;
-	line-height: 14px;
-}
-
-#u3290-4
-{
-	font-size: 10px;
-	line-height: 12px;
-	font-style: italic;
 }
 
 body
